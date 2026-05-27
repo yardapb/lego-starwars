@@ -1,8 +1,11 @@
-const CACHE_NAME = 'lego-sw-v1';
+const CACHE_NAME = 'lego-sw-v2';
+const BASE = '/lego-starwars';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  BASE + '/',
+  BASE + '/index.html',
+  BASE + '/manifest.json',
+  BASE + '/icon-192.png',
+  BASE + '/icon-512.png',
   'https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800;900&family=Rajdhani:wght@300;400;500;600&display=swap'
 ];
 
@@ -23,14 +26,10 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  // Pro BrickLink obrázky — network first, fallback cache
   if (e.request.url.includes('bricklink.com')) {
-    e.respondWith(
-      fetch(e.request).catch(() => caches.match(e.request))
-    );
+    e.respondWith(fetch(e.request).catch(() => caches.match(e.request)));
     return;
   }
-  // Pro ostatní — cache first
   e.respondWith(
     caches.match(e.request).then(cached => cached || fetch(e.request))
   );

@@ -2,20 +2,21 @@
   "name": "LEGO Star Wars – Databáze figurek",
   "short_name": "LEGO SW",
   "description": "Osobní databáze LEGO Star Wars minifigurek",
-  "start_url": "/",
+  "start_url": "/lego-starwars/",
+  "scope": "/lego-starwars/",
   "display": "standalone",
   "background_color": "#050a0f",
   "theme_color": "#ffe81f",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/lego-starwars/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/lego-starwars/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

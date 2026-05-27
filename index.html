@@ -508,7 +508,7 @@ initData(); updateStats(); filterData(); sortBy('datum');
 // Service Worker
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
+    navigator.serviceWorker.register('/lego-starwars/sw.js')
       .then(r => console.log('SW registered'))
       .catch(e => console.log('SW error', e));
   });
