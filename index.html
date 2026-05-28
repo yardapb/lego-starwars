@@ -173,8 +173,8 @@ tbody tr:hover .set-img-thumb{transform:scale(1.1);}
       <button class="tab-btn active" id="tabFig" onclick="switchTab('figurky')">🧍 Figurky</button>
       <button class="tab-btn" id="tabSet" onclick="switchTab('sety')">📦 Sety</button>
     </div>
-    <button class="btn btn-outline" onclick="exportData()" title="Exportovat data do souboru">📤</button>
-    <label class="btn btn-outline" title="Importovat data ze souboru" style="cursor:pointer;">📥<input type="file" id="importFile" accept=".json" onchange="importData(event)" style="display:none"></label>
+    <button class="btn btn-outline" onclick="githubSync()" id="btnSync" title="Synchronizovat s GitHubem">☁️ Sync</button>
+    <button class="btn btn-outline" onclick="openGithubSettings()" title="Nastavení GitHub">⚙️</button>
   </div>
 </header>
 
@@ -738,49 +738,166 @@ if ('serviceWorker' in navigator) {
 }
 
 
-function exportData() {
-  const payload = {
-    version: 1,
-    exported: new Date().toISOString(),
-    figs: figs,
-    sets: sets
-  };
-  const blob = new Blob([JSON.stringify(payload, null, 2)], {type: 'application/json'});
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'lego_zaloha_' + new Date().toISOString().slice(0,10) + '.json';
-  a.click();
-  URL.revokeObjectURL(a.href);
+const GH_TOKEN_KEY = 'lego_gh_token';
+const GH_OWNER_KEY = 'lego_gh_owner';
+const GH_REPO_KEY  = 'lego_gh_repo';
+const DATA_FILE    = 'data.json';
+
+function getGhSettings() {
+  try {
+    return {
+      token: localStorage.getItem(GH_TOKEN_KEY) || '',
+      owner: localStorage.getItem(GH_OWNER_KEY) || '',
+      repo:  localStorage.getItem(GH_REPO_KEY)  || ''
+    };
+  } catch(e) { return {token:'',owner:'',repo:''}; }
 }
 
-function importData(event) {
-  const file = event.target.files[0];
-  if (!file) return;
-  const reader = new FileReader();
-  reader.onload = function(e) {
-    try {
-      const payload = JSON.parse(e.target.result);
-      if (!payload.figs || !payload.sets) throw new Error('Neplatný formát souboru');
-      if (!confirm('Importovat data? Toto přepíše všechna aktuální data na tomto zařízení.')) return;
-      figs = payload.figs;
-      sets = payload.sets;
-      saveStorage(FIGS_KEY, figs);
-      saveStorage(SETS_KEY, sets);
-      // rebuild filters
-      document.getElementById('f-setNumFilter').innerHTML = '<option value="">Vše (set č.)</option>';
-      buildSetNumFilter();
-      filterFigs();
-      filterSets();
-      alert('✅ Import úspěšný! Načteno ' + figs.length + ' figurek a ' + sets.length + ' setů.');
-    } catch(err) {
-      alert('❌ Chyba při importu: ' + err.message);
+function openGithubSettings() {
+  const s = getGhSettings();
+  document.getElementById('gh-token').value = s.token;
+  document.getElementById('gh-owner').value = s.owner;
+  document.getElementById('gh-repo').value  = s.repo;
+  document.getElementById('gh-status').textContent = '';
+  document.getElementById('githubModal').classList.add('active');
+}
+function closeGithubSettings() { document.getElementById('githubModal').classList.remove('active'); }
+
+function saveGithubSettings() {
+  const token = document.getElementById('gh-token').value.trim();
+  const owner = document.getElementById('gh-owner').value.trim();
+  const repo  = document.getElementById('gh-repo').value.trim();
+  if (!token || !owner || !repo) { document.getElementById('gh-status').innerHTML = '<span style="color:var(--red)">Vyplňte všechna pole.</span>'; return; }
+  try {
+    localStorage.setItem(GH_TOKEN_KEY, token);
+    localStorage.setItem(GH_OWNER_KEY, owner);
+    localStorage.setItem(GH_REPO_KEY,  repo);
+  } catch(e) {}
+  document.getElementById('gh-status').innerHTML = '<span style="color:#4CAF50">✅ Nastavení uloženo!</span>';
+  setTimeout(closeGithubSettings, 1200);
+}
+
+function showToast(msg, color) {
+  const t = document.getElementById('syncToast');
+  t.textContent = msg;
+  t.style.color = color || 'var(--accent)';
+  t.style.borderColor = color || 'var(--accent)';
+  t.style.display = 'block';
+  t.style.opacity = '1';
+  setTimeout(() => { t.style.opacity = '0'; setTimeout(() => t.style.display = 'none', 300); }, 3000);
+}
+
+async function getFileSha(token, owner, repo) {
+  try {
+    const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${DATA_FILE}`, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (res.ok) { const d = await res.json(); return d.sha; }
+  } catch(e) {}
+  return null;
+}
+
+async function githubSync() {
+  const s = getGhSettings();
+  if (!s.token || !s.owner || !s.repo) {
+    openGithubSettings();
+    document.getElementById('gh-status').innerHTML = '<span style="color:var(--pouzite)">⚠️ Nejprve zadejte nastavení.</span>';
+    return;
+  }
+  const btn = document.getElementById('btnSync');
+  btn.textContent = '⏳';
+  btn.disabled = true;
+  try {
+    const payload = JSON.stringify({ version: 1, exported: new Date().toISOString(), figs, sets }, null, 2);
+    const encoded = btoa(unescape(encodeURIComponent(payload)));
+    const sha = await getFileSha(s.token, s.owner, s.repo);
+    const body = { message: 'Aktualizace databáze ' + new Date().toISOString().slice(0,10), content: encoded };
+    if (sha) body.sha = sha;
+    const res = await fetch(`https://api.github.com/repos/${s.owner}/${s.repo}/contents/${DATA_FILE}`, {
+      method: 'PUT',
+      headers: { 'Authorization': 'token ' + s.token, 'Content-Type': 'application/json', 'Accept': 'application/vnd.github.v3+json' },
+      body: JSON.stringify(body)
+    });
+    if (res.ok) {
+      showToast('✅ Synchronizováno na GitHub!', '#4CAF50');
+    } else {
+      const err = await res.json();
+      showToast('❌ Chyba: ' + (err.message || res.status), 'var(--red)');
     }
-    event.target.value = '';
-  };
-  reader.readAsText(file);
+  } catch(e) {
+    showToast('❌ Chyba připojení: ' + e.message, 'var(--red)');
+  }
+  btn.textContent = '☁️ Sync';
+  btn.disabled = false;
+}
+
+async function loadFromGithub() {
+  const s = getGhSettings();
+  if (!s.owner || !s.repo) return;
+  try {
+    const res = await fetch(`https://raw.githubusercontent.com/${s.owner}/${s.repo}/main/${DATA_FILE}?t=${Date.now()}`);
+    if (!res.ok) return;
+    const payload = await res.json();
+    if (!payload.figs || !payload.sets) return;
+    const localExported = (() => { try { const d = localStorage.getItem('lego_last_sync'); return d || ''; } catch(e) { return ''; } })();
+    if (payload.exported && payload.exported <= localExported) {
+      showToast('✅ Data jsou aktuální', 'var(--accent2)');
+      return;
+    }
+    figs = payload.figs;
+    sets = payload.sets;
+    saveStorage(FIGS_KEY, figs);
+    saveStorage(SETS_KEY, sets);
+    try { localStorage.setItem('lego_last_sync', payload.exported); } catch(e) {}
+    document.getElementById('f-setNumFilter').innerHTML = '<option value="">Vše (set č.)</option>';
+    buildSetNumFilter();
+    filterFigs();
+    filterSets();
+    showToast('☁️ Data načtena z GitHubu', 'var(--accent2)');
+  } catch(e) {}
 }
 
 init();
+loadFromGithub();
 </script>
+<!-- GITHUB SETTINGS MODAL -->
+<div class="modal-overlay" id="githubModal" onclick="if(event.target===this)closeGithubSettings()">
+  <div class="modal" style="max-width:480px;">
+    <div class="modal-hero" style="background:var(--surface2);padding:20px 24px;border-bottom:1px solid var(--border);">
+      <div style="font-size:40px;flex-shrink:0;">☁️</div>
+      <div class="modal-hero-info">
+        <h2 style="font-family:Orbitron,monospace;font-size:14px;color:var(--accent);">GitHub Synchronizace</h2>
+        <div style="font-size:11px;color:var(--text-dim);margin-top:4px;">Data se ukládají přímo do tvého repozitáře</div>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="modal-title-row">
+        <span class="modal-label">Nastavení</span>
+        <button class="modal-close" onclick="closeGithubSettings()">✕</button>
+      </div>
+      <div style="font-size:12px;color:var(--text-dim);margin-bottom:16px;line-height:1.6;padding:10px;background:var(--surface2);border-radius:6px;border-left:3px solid var(--accent2);">
+        Jak získat token:<br>
+        GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token → zaškrtni <strong style="color:var(--text)">repo</strong> → Generate
+      </div>
+      <div class="field-group" style="grid-template-columns:1fr;">
+        <div class="field"><label>GitHub Token (PAT)</label><input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx"></div>
+        <div class="field"><label>GitHub uživatel</label><input type="text" id="gh-owner" placeholder="yardapb"></div>
+        <div class="field"><label>Název repozitáře</label><input type="text" id="gh-repo" placeholder="lego-starwars"></div>
+      </div>
+      <div id="gh-status" style="margin-top:12px;font-size:12px;min-height:20px;"></div>
+      <div class="modal-actions">
+        <button class="btn btn-outline" onclick="closeGithubSettings()">Zavřít</button>
+        <button class="btn btn-primary" onclick="saveGithubSettings()">Uložit nastavení</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SYNC STATUS TOAST -->
+<div id="syncToast" style="display:none;position:fixed;bottom:24px;left:50%;transform:translateX(-50%);
+  background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 20px;
+  font-family:Orbitron,monospace;font-size:11px;letter-spacing:1px;z-index:3000;
+  box-shadow:0 8px 24px rgba(0,0,0,0.5);transition:opacity 0.3s;white-space:nowrap;"></div>
+
 </body>
 </html>
