@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported": "2026-05-28T21:19:26.708Z",
+  "exported": "2026-05-28T21:33:18.019Z",
   "figs": [
     {
       "kod": "sw0532",
@@ -4344,46 +4344,46 @@
     {
       "_id": 13,
       "cislo": "75391",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Captain Rex Y-Wing Microfighter",
+      "datum": "2026-02-03",
+      "od": "Petr Janás (aukro)",
+      "cena": 189,
       "poznamka": ""
     },
     {
       "_id": 14,
       "cislo": "75398",
-      "nazev": "",
-      "datum": "",
-      "od": "",
+      "nazev": "C-3PO",
+      "datum": "2024-12-24",
+      "od": "dárek",
       "cena": 0,
       "poznamka": ""
     },
     {
       "_id": 15,
       "cislo": "75412",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Death Trooper & Night Trooper Battle Pack",
+      "datum": "2026-02-02",
+      "od": "alza.cz",
+      "cena": 350,
       "poznamka": ""
     },
     {
       "_id": 16,
       "cislo": "75413",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Republic Juggernaut",
+      "datum": "2026-04-21",
+      "od": "morekostek.cz (Plzeň)",
+      "cena": 2799,
       "poznamka": ""
     },
     {
       "_id": 17,
       "cislo": "75419",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Death Star - UCS",
+      "datum": "2026-04-11",
+      "od": "KITStore (Arkády Pankrác)",
+      "cena": 19699,
       "poznamka": ""
     },
     {
