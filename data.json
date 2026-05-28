@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "exported": "2026-05-28T20:49:24.994Z",
+  "exported": "2026-05-28T21:04:11.462Z",
   "figs": [
+    {
+      "kod": "sw1363",
+      "nazev": "Jedi Vader",
+      "datum": "20026-04-09",
+      "od": "alza.cz",
+      "stav": "nové",
+      "cena": 800,
+      "sw_kod": "sw1363",
+      "set": "součást setu 75389",
+      "_id": 1780002074758
+    },
     {
       "kod": "472407-1",
       "nazev": "Sabine Wren paper bag (sw1395)",
@@ -4286,28 +4297,28 @@
     {
       "_id": 10,
       "cislo": "75374",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "The Onyx Cinder",
+      "datum": "2026-04-21",
+      "od": "morekostek.cz (Plzeň)",
+      "cena": 2439,
       "poznamka": ""
     },
     {
       "_id": 11,
       "cislo": "75379",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "R2-D2",
+      "datum": "2026-02-03",
+      "od": "Pompo.cz",
+      "cena": 1947,
       "poznamka": ""
     },
     {
       "_id": 12,
       "cislo": "75389",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "The Dark Falcon",
+      "datum": "2026-04-09",
+      "od": "alza.cz",
+      "cena": 2867,
       "poznamka": ""
     },
     {
