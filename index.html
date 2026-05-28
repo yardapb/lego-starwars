@@ -173,6 +173,8 @@ tbody tr:hover .set-img-thumb{transform:scale(1.1);}
       <button class="tab-btn active" id="tabFig" onclick="switchTab('figurky')">🧍 Figurky</button>
       <button class="tab-btn" id="tabSet" onclick="switchTab('sety')">📦 Sety</button>
     </div>
+    <button class="btn btn-outline" onclick="exportData()" title="Exportovat data do souboru">📤</button>
+    <label class="btn btn-outline" title="Importovat data ze souboru" style="cursor:pointer;">📥<input type="file" id="importFile" accept=".json" onchange="importData(event)" style="display:none"></label>
   </div>
 </header>
 
@@ -733,6 +735,49 @@ function esc(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').re
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => navigator.serviceWorker.register('/lego-starwars/sw.js').catch(e => console.log(e)));
+}
+
+
+function exportData() {
+  const payload = {
+    version: 1,
+    exported: new Date().toISOString(),
+    figs: figs,
+    sets: sets
+  };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], {type: 'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'lego_zaloha_' + new Date().toISOString().slice(0,10) + '.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function importData(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const payload = JSON.parse(e.target.result);
+      if (!payload.figs || !payload.sets) throw new Error('Neplatný formát souboru');
+      if (!confirm('Importovat data? Toto přepíše všechna aktuální data na tomto zařízení.')) return;
+      figs = payload.figs;
+      sets = payload.sets;
+      saveStorage(FIGS_KEY, figs);
+      saveStorage(SETS_KEY, sets);
+      // rebuild filters
+      document.getElementById('f-setNumFilter').innerHTML = '<option value="">Vše (set č.)</option>';
+      buildSetNumFilter();
+      filterFigs();
+      filterSets();
+      alert('✅ Import úspěšný! Načteno ' + figs.length + ' figurek a ' + sets.length + ' setů.');
+    } catch(err) {
+      alert('❌ Chyba při importu: ' + err.message);
+    }
+    event.target.value = '';
+  };
+  reader.readAsText(file);
 }
 
 init();
