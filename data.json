@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported": "2026-05-28T20:34:57.674Z",
+  "exported": "2026-05-28T20:49:24.994Z",
   "figs": [
     {
       "kod": "472407-1",
@@ -4185,6 +4185,15 @@
   ],
   "sets": [
     {
+      "cislo": "75407",
+      "nazev": "Brick-Built Star Wars Logo",
+      "datum": "2026-02-20",
+      "od": "morekostek.cz (Plzeň)",
+      "cena": 1229,
+      "poznamka": "",
+      "_id": 1780001340431
+    },
+    {
       "_id": 0,
       "cislo": "9499",
       "nazev": "Gungan Sub",
@@ -4250,28 +4259,28 @@
     {
       "_id": 7,
       "cislo": "75331",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "The Razor Crest - UCS",
+      "datum": "2026-03-22",
+      "od": "alza.cz",
+      "cena": 13311,
       "poznamka": ""
     },
     {
       "_id": 8,
       "cislo": "75333",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Obi-Wan Kenobi's Jedi Starfighter",
+      "datum": "2026-04-10",
+      "od": "alza.cz",
+      "cena": 602,
       "poznamka": ""
     },
     {
       "_id": 9,
       "cislo": "75335",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "BD-1",
+      "datum": "2026-04-24",
+      "od": "Plzeň (bazos.cz) tel. 728211677",
+      "cena": 3200,
       "poznamka": ""
     },
     {
