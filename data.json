@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported": "2026-05-28T20:22:11.687Z",
+  "exported": "2026-05-28T20:28:49.947Z",
   "figs": [
     {
       "kod": "472407-1",
@@ -4205,19 +4205,19 @@
     {
       "_id": 2,
       "cislo": "75192",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Millennium Falcon - UCS {2nd edition}",
+      "datum": "2026-01-25",
+      "od": "alza.cz",
+      "cena": 16331,
       "poznamka": ""
     },
     {
       "_id": 3,
       "cislo": "75290",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Mos Eisley Cantina",
+      "datum": "2026-04-03",
+      "od": "KV (Pavel) bazos.cz tel. 604143584",
+      "cena": 7200,
       "poznamka": ""
     },
     {
