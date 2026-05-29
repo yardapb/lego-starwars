@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "exported": "2026-05-29T17:08:17.999Z",
+  "version": 2,
+  "exported": "2026-05-29T18:12:08.047Z",
   "figs": [
     {
       "kod": "sw0532",
@@ -8,10 +8,11 @@
       "datum": "2025-12-24",
       "od": "dárek- součást nového setu LEGO 75371 (0,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 90,
+      "cena": 0,
       "sw_kod": "sw0532",
       "set": "součást setu 75371",
-      "_id": 1780002848475
+      "_id": 0,
+      "hodnota_figurky": 90
     },
     {
       "kod": "sw1363",
@@ -19,10 +20,11 @@
       "datum": "2026-04-09",
       "od": "alza.cz",
       "stav": "nové",
-      "cena": 800,
+      "cena": 0,
       "sw_kod": "sw1363",
       "set": "součást setu 75389",
-      "_id": 1780002074758
+      "_id": 1,
+      "hodnota_figurky": 800
     },
     {
       "kod": "472407-1",
@@ -33,7 +35,8 @@
       "cena": 103,
       "sw_kod": "sw1395",
       "set": "-",
-      "_id": 0
+      "_id": 2,
+      "hodnota_figurky": 0
     },
     {
       "kod": "472518-1",
@@ -44,7 +47,8 @@
       "cena": 179,
       "sw_kod": "sw1300",
       "set": "-",
-      "_id": 1
+      "_id": 3,
+      "hodnota_figurky": 0
     },
     {
       "kod": "5000062-1",
@@ -55,7 +59,8 @@
       "cena": 800,
       "sw_kod": "sw0384",
       "set": "-",
-      "_id": 2
+      "_id": 4,
+      "hodnota_figurky": 0
     },
     {
       "kod": "911832-1",
@@ -66,7 +71,8 @@
       "cena": 70,
       "sw_kod": "sw0802",
       "set": "-",
-      "_id": 3
+      "_id": 5,
+      "hodnota_figurky": 0
     },
     {
       "kod": "911943-1",
@@ -77,7 +83,8 @@
       "cena": 95,
       "sw_kod": "sw0778",
       "set": "-",
-      "_id": 4
+      "_id": 6,
+      "hodnota_figurky": 0
     },
     {
       "kod": "912401-1",
@@ -88,7 +95,8 @@
       "cena": 135,
       "sw_kod": "sw1259",
       "set": "-",
-      "_id": 5
+      "_id": 7,
+      "hodnota_figurky": 0
     },
     {
       "kod": "L0002231-1",
@@ -99,7 +107,8 @@
       "cena": 140,
       "sw_kod": "sw1425",
       "set": "-",
-      "_id": 6
+      "_id": 8,
+      "hodnota_figurky": 0
     },
     {
       "kod": "l0002232-1",
@@ -110,7 +119,8 @@
       "cena": 139,
       "sw_kod": "sw1417",
       "set": "-",
-      "_id": 7
+      "_id": 9,
+      "hodnota_figurky": 0
     },
     {
       "kod": "l0002233-1",
@@ -121,7 +131,8 @@
       "cena": 139,
       "sw_kod": "sw1402",
       "set": "-",
-      "_id": 8
+      "_id": 10,
+      "hodnota_figurky": 0
     },
     {
       "kod": "l0002234-1",
@@ -132,7 +143,8 @@
       "cena": 139,
       "sw_kod": "sw1398",
       "set": "-",
-      "_id": 9
+      "_id": 11,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0001c",
@@ -140,10 +152,11 @@
       "datum": "2026-04-21",
       "od": "morekostek.cz (Plzeň), součást setu 75413 (2799,-), hodnota figurky dle dne zakoupení (3ks)",
       "stav": "nové",
-      "cena": 37,
+      "cena": 0,
       "sw_kod": "sw0001c",
       "set": "součást setu 75413",
-      "_id": 10
+      "_id": 12,
+      "hodnota_figurky": 37
     },
     {
       "kod": "sw0002b",
@@ -154,7 +167,8 @@
       "cena": 876,
       "sw_kod": "sw0002b",
       "set": "-",
-      "_id": 11
+      "_id": 13,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0005a",
@@ -165,7 +179,8 @@
       "cena": 115,
       "sw_kod": "sw0005a",
       "set": "-",
-      "_id": 12
+      "_id": 14,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0005b",
@@ -176,7 +191,8 @@
       "cena": 105,
       "sw_kod": "sw0005b",
       "set": "-",
-      "_id": 13
+      "_id": 15,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0040",
@@ -187,7 +203,8 @@
       "cena": 133,
       "sw_kod": "sw0040",
       "set": "-",
-      "_id": 14
+      "_id": 16,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0075",
@@ -198,7 +215,8 @@
       "cena": 410,
       "sw_kod": "sw0075",
       "set": "-",
-      "_id": 15
+      "_id": 17,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0099",
@@ -209,7 +227,8 @@
       "cena": 353,
       "sw_kod": "sw0099",
       "set": "-",
-      "_id": 16
+      "_id": 18,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0115",
@@ -220,7 +239,8 @@
       "cena": 101,
       "sw_kod": "sw0115",
       "set": "-",
-      "_id": 17
+      "_id": 19,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0156",
@@ -228,10 +248,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 41,
+      "cena": 0,
       "sw_kod": "sw0156",
       "set": "součást setu 75419",
-      "_id": 18
+      "_id": 20,
+      "hodnota_figurky": 41
     },
     {
       "kod": "sw0166a",
@@ -242,7 +263,8 @@
       "cena": 120,
       "sw_kod": "sw0166a",
       "set": "-",
-      "_id": 19
+      "_id": 21,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0180",
@@ -253,7 +275,8 @@
       "cena": 599,
       "sw_kod": "sw0180",
       "set": "-",
-      "_id": 20
+      "_id": 22,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0188",
@@ -264,7 +287,8 @@
       "cena": 115,
       "sw_kod": "sw0188",
       "set": "-",
-      "_id": 21
+      "_id": 23,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0192",
@@ -275,7 +299,8 @@
       "cena": 240,
       "sw_kod": "sw0192",
       "set": "-",
-      "_id": 22
+      "_id": 24,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0194",
@@ -286,7 +311,8 @@
       "cena": 1505,
       "sw_kod": "sw0194",
       "set": "-",
-      "_id": 23
+      "_id": 25,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0209",
@@ -297,7 +323,8 @@
       "cena": 200,
       "sw_kod": "sw0209",
       "set": "-",
-      "_id": 24
+      "_id": 26,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0210",
@@ -308,7 +335,8 @@
       "cena": 242,
       "sw_kod": "sw0210",
       "set": "-",
-      "_id": 25
+      "_id": 27,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0220",
@@ -319,7 +347,8 @@
       "cena": 153,
       "sw_kod": "sw0220",
       "set": "-",
-      "_id": 26
+      "_id": 28,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0221",
@@ -330,7 +359,8 @@
       "cena": 182,
       "sw_kod": "sw0221",
       "set": "-",
-      "_id": 27
+      "_id": 29,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0224",
@@ -341,7 +371,8 @@
       "cena": 448,
       "sw_kod": "sw0224",
       "set": "-",
-      "_id": 28
+      "_id": 30,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0226",
@@ -352,7 +383,8 @@
       "cena": 195,
       "sw_kod": "sw0226",
       "set": "-",
-      "_id": 29
+      "_id": 31,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0242",
@@ -363,7 +395,8 @@
       "cena": 246,
       "sw_kod": "sw0242",
       "set": "-",
-      "_id": 30
+      "_id": 32,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0243",
@@ -374,7 +407,8 @@
       "cena": 440,
       "sw_kod": "sw0243",
       "set": "-",
-      "_id": 31
+      "_id": 33,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0245",
@@ -385,7 +419,8 @@
       "cena": 210,
       "sw_kod": "sw0245",
       "set": "-",
-      "_id": 32
+      "_id": 34,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0247",
@@ -396,7 +431,8 @@
       "cena": 205,
       "sw_kod": "sw0247",
       "set": "-",
-      "_id": 33
+      "_id": 35,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0249",
@@ -407,7 +443,8 @@
       "cena": 662,
       "sw_kod": "sw0249",
       "set": "-",
-      "_id": 34
+      "_id": 36,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0262",
@@ -418,7 +455,8 @@
       "cena": 142,
       "sw_kod": "sw0262",
       "set": "-",
-      "_id": 35
+      "_id": 37,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0264",
@@ -429,7 +467,8 @@
       "cena": 145,
       "sw_kod": "sw0264",
       "set": "-",
-      "_id": 36
+      "_id": 38,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0269",
@@ -440,7 +479,8 @@
       "cena": 292,
       "sw_kod": "sw0269",
       "set": "-",
-      "_id": 37
+      "_id": 39,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0274",
@@ -451,7 +491,8 @@
       "cena": 75,
       "sw_kod": "sw0274",
       "set": "-",
-      "_id": 38
+      "_id": 40,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0274",
@@ -462,7 +503,8 @@
       "cena": 115,
       "sw_kod": "sw0274",
       "set": "-",
-      "_id": 39
+      "_id": 41,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0296",
@@ -473,7 +515,8 @@
       "cena": 107,
       "sw_kod": "sw0296",
       "set": "-",
-      "_id": 40
+      "_id": 42,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0297",
@@ -484,7 +527,8 @@
       "cena": 210,
       "sw_kod": "sw0297",
       "set": "-",
-      "_id": 41
+      "_id": 43,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0298",
@@ -495,7 +539,8 @@
       "cena": 195,
       "sw_kod": "sw0298",
       "set": "-",
-      "_id": 42
+      "_id": 44,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0299",
@@ -506,7 +551,8 @@
       "cena": 127,
       "sw_kod": "sw0299",
       "set": "-",
-      "_id": 43
+      "_id": 45,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0301",
@@ -514,10 +560,11 @@
       "datum": "2026-02-15",
       "od": "vban87 (aukro) - součást použitého setu LEGO 9499 (5492,-) - hodnota figurky dle dne zakoupení",
       "stav": "použité",
-      "cena": 150,
+      "cena": 0,
       "sw_kod": "sw0301",
       "set": "součást setu 9499",
-      "_id": 44
+      "_id": 46,
+      "hodnota_figurky": 150
     },
     {
       "kod": "sw0302",
@@ -528,7 +575,8 @@
       "cena": 161,
       "sw_kod": "sw0302",
       "set": "-",
-      "_id": 45
+      "_id": 47,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0304",
@@ -539,7 +587,8 @@
       "cena": 126,
       "sw_kod": "sw0304",
       "set": "-",
-      "_id": 46
+      "_id": 48,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0306",
@@ -550,7 +599,8 @@
       "cena": 441,
       "sw_kod": "sw0306",
       "set": "-",
-      "_id": 47
+      "_id": 49,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0307",
@@ -561,7 +611,8 @@
       "cena": 635,
       "sw_kod": "sw0307",
       "set": "-",
-      "_id": 48
+      "_id": 50,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0308",
@@ -572,7 +623,8 @@
       "cena": 292,
       "sw_kod": "sw0308",
       "set": "-",
-      "_id": 49
+      "_id": 51,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0317",
@@ -583,7 +635,8 @@
       "cena": 115,
       "sw_kod": "sw0317",
       "set": "-",
-      "_id": 50
+      "_id": 52,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0318",
@@ -594,7 +647,8 @@
       "cena": 259,
       "sw_kod": "sw0318",
       "set": "-",
-      "_id": 51
+      "_id": 53,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0320",
@@ -605,7 +659,8 @@
       "cena": 125,
       "sw_kod": "sw0320",
       "set": "-",
-      "_id": 52
+      "_id": 54,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0325",
@@ -616,7 +671,8 @@
       "cena": 999,
       "sw_kod": "sw0325",
       "set": "-",
-      "_id": 53
+      "_id": 55,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0335",
@@ -627,7 +683,8 @@
       "cena": 151,
       "sw_kod": "sw0335",
       "set": "-",
-      "_id": 54
+      "_id": 56,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0338",
@@ -638,7 +695,8 @@
       "cena": 199,
       "sw_kod": "sw0338",
       "set": "-",
-      "_id": 55
+      "_id": 57,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0340",
@@ -649,7 +707,8 @@
       "cena": 101,
       "sw_kod": "sw0340",
       "set": "-",
-      "_id": 56
+      "_id": 58,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0362",
@@ -660,7 +719,8 @@
       "cena": 164,
       "sw_kod": "sw0362",
       "set": "-",
-      "_id": 57
+      "_id": 59,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0363",
@@ -671,7 +731,8 @@
       "cena": 341,
       "sw_kod": "sw0363",
       "set": "-",
-      "_id": 58
+      "_id": 60,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0366",
@@ -682,7 +743,8 @@
       "cena": 86,
       "sw_kod": "sw0366",
       "set": "-",
-      "_id": 59
+      "_id": 61,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0367",
@@ -693,7 +755,8 @@
       "cena": 115,
       "sw_kod": "sw0367",
       "set": "-",
-      "_id": 60
+      "_id": 62,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0377",
@@ -704,7 +767,8 @@
       "cena": 630,
       "sw_kod": "sw0377",
       "set": "-",
-      "_id": 61
+      "_id": 63,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0379",
@@ -715,7 +779,8 @@
       "cena": 147,
       "sw_kod": "sw0379",
       "set": "-",
-      "_id": 62
+      "_id": 64,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0380",
@@ -726,7 +791,8 @@
       "cena": 255,
       "sw_kod": "sw0380",
       "set": "-",
-      "_id": 63
+      "_id": 65,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0387",
@@ -734,10 +800,11 @@
       "datum": "2026-02-15",
       "od": "vban87 (aukro) - součást použitého setu LEGO 9499 (5492,-) - hodnota figurky dle dne zakoupení",
       "stav": "použité",
-      "cena": 4400,
+      "cena": 0,
       "sw_kod": "sw0387",
       "set": "součást setu 9499",
-      "_id": 64
+      "_id": 66,
+      "hodnota_figurky": 4400
     },
     {
       "kod": "sw0389",
@@ -748,7 +815,8 @@
       "cena": 599,
       "sw_kod": "sw0389",
       "set": "-",
-      "_id": 65
+      "_id": 67,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0392",
@@ -759,7 +827,8 @@
       "cena": 435,
       "sw_kod": "sw0392",
       "set": "-",
-      "_id": 66
+      "_id": 68,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0395",
@@ -770,7 +839,8 @@
       "cena": 102,
       "sw_kod": "sw0395",
       "set": "-",
-      "_id": 67
+      "_id": 69,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0396",
@@ -781,7 +851,8 @@
       "cena": 212,
       "sw_kod": "sw0396",
       "set": "-",
-      "_id": 68
+      "_id": 70,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0398",
@@ -792,7 +863,8 @@
       "cena": 145,
       "sw_kod": "sw0398",
       "set": "-",
-      "_id": 69
+      "_id": 71,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0400",
@@ -803,7 +875,8 @@
       "cena": 105,
       "sw_kod": "sw0400",
       "set": "-",
-      "_id": 70
+      "_id": 72,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0407",
@@ -814,7 +887,8 @@
       "cena": 1900,
       "sw_kod": "sw0407",
       "set": "-",
-      "_id": 71
+      "_id": 73,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0409",
@@ -822,10 +896,11 @@
       "datum": "2026-02-15",
       "od": "vban87 (aukro) - součást použitého setu LEGO 9499 (5492,-) - hodnota figurky dle dne zakoupení",
       "stav": "použité",
-      "cena": 320,
+      "cena": 0,
       "sw_kod": "sw0409",
       "set": "součást setu 9499",
-      "_id": 72
+      "_id": 74,
+      "hodnota_figurky": 320
     },
     {
       "kod": "sw0410",
@@ -833,10 +908,11 @@
       "datum": "2026-02-15",
       "od": "vban87 (aukro) - součást použitého setu LEGO 9499 (5492,-) - hodnota figurky dle dne zakoupení",
       "stav": "použité",
-      "cena": 430,
+      "cena": 0,
       "sw_kod": "sw0410",
       "set": "součást setu 9499",
-      "_id": 73
+      "_id": 75,
+      "hodnota_figurky": 430
     },
     {
       "kod": "sw0413",
@@ -847,7 +923,8 @@
       "cena": 3420,
       "sw_kod": "sw0413",
       "set": "-",
-      "_id": 74
+      "_id": 76,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0417",
@@ -858,7 +935,8 @@
       "cena": 375,
       "sw_kod": "sw0417",
       "set": "-",
-      "_id": 75
+      "_id": 77,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0418",
@@ -869,7 +947,8 @@
       "cena": 801,
       "sw_kod": "sw0418",
       "set": "-",
-      "_id": 76
+      "_id": 78,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0443",
@@ -880,7 +959,8 @@
       "cena": 136,
       "sw_kod": "sw0443",
       "set": "-",
-      "_id": 77
+      "_id": 79,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0450",
@@ -891,7 +971,8 @@
       "cena": 1620,
       "sw_kod": "sw0450",
       "set": "-",
-      "_id": 78
+      "_id": 80,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0451",
@@ -902,7 +983,8 @@
       "cena": 101,
       "sw_kod": "sw0451",
       "set": "-",
-      "_id": 79
+      "_id": 81,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0468",
@@ -913,7 +995,8 @@
       "cena": 390,
       "sw_kod": "sw0468",
       "set": "-",
-      "_id": 80
+      "_id": 82,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0479",
@@ -924,7 +1007,8 @@
       "cena": 191,
       "sw_kod": "sw0479",
       "set": "-",
-      "_id": 81
+      "_id": 83,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0480",
@@ -935,7 +1019,8 @@
       "cena": 1217,
       "sw_kod": "sw0480",
       "set": "-",
-      "_id": 82
+      "_id": 84,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0483",
@@ -946,7 +1031,8 @@
       "cena": 1055,
       "sw_kod": "sw0483",
       "set": "-",
-      "_id": 83
+      "_id": 85,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0486",
@@ -957,7 +1043,8 @@
       "cena": 980,
       "sw_kod": "sw0486",
       "set": "-",
-      "_id": 84
+      "_id": 86,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0488",
@@ -968,7 +1055,8 @@
       "cena": 595,
       "sw_kod": "sw0488",
       "set": "-",
-      "_id": 85
+      "_id": 87,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0493",
@@ -979,7 +1067,8 @@
       "cena": 464,
       "sw_kod": "sw0493",
       "set": "-",
-      "_id": 86
+      "_id": 88,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0499",
@@ -990,7 +1079,8 @@
       "cena": 1676,
       "sw_kod": "sw0499",
       "set": "-",
-      "_id": 87
+      "_id": 89,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0500",
@@ -1001,7 +1091,8 @@
       "cena": 3510,
       "sw_kod": "sw0500",
       "set": "-",
-      "_id": 88
+      "_id": 90,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0510",
@@ -1012,7 +1103,8 @@
       "cena": 1580,
       "sw_kod": "sw0510",
       "set": "-",
-      "_id": 89
+      "_id": 91,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0514",
@@ -1023,7 +1115,8 @@
       "cena": 125,
       "sw_kod": "sw0514",
       "set": "-",
-      "_id": 90
+      "_id": 92,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0519",
@@ -1034,7 +1127,8 @@
       "cena": 315,
       "sw_kod": "sw0519",
       "set": "-",
-      "_id": 91
+      "_id": 93,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0523",
@@ -1045,7 +1139,8 @@
       "cena": 405,
       "sw_kod": "sw0523",
       "set": "-",
-      "_id": 92
+      "_id": 94,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0526",
@@ -1056,7 +1151,8 @@
       "cena": 210,
       "sw_kod": "sw0526",
       "set": "-",
-      "_id": 93
+      "_id": 95,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0527",
@@ -1067,7 +1163,8 @@
       "cena": 101,
       "sw_kod": "sw0527",
       "set": "-",
-      "_id": 94
+      "_id": 96,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0530",
@@ -1078,7 +1175,8 @@
       "cena": 212,
       "sw_kod": "sw0530",
       "set": "-",
-      "_id": 95
+      "_id": 97,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0532",
@@ -1086,10 +1184,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 90,
+      "cena": 0,
       "sw_kod": "sw0532",
       "set": "součást setu 75192",
-      "_id": 96
+      "_id": 98,
+      "hodnota_figurky": 90
     },
     {
       "kod": "sw0532",
@@ -1097,10 +1196,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 90,
+      "cena": 0,
       "sw_kod": "sw0532",
       "set": "součást setu 75290",
-      "_id": 97
+      "_id": 99,
+      "hodnota_figurky": 90
     },
     {
       "kod": "sw0532",
@@ -1108,10 +1208,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 90,
+      "cena": 0,
       "sw_kod": "sw0532",
       "set": "součást setu 75419",
-      "_id": 98
+      "_id": 100,
+      "hodnota_figurky": 90
     },
     {
       "kod": "sw0544",
@@ -1122,7 +1223,8 @@
       "cena": 115,
       "sw_kod": "sw0544",
       "set": "-",
-      "_id": 99
+      "_id": 101,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0552",
@@ -1133,7 +1235,8 @@
       "cena": 155,
       "sw_kod": "sw0552",
       "set": "-",
-      "_id": 100
+      "_id": 102,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0554",
@@ -1141,10 +1244,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení (3 ks)",
       "stav": "nové",
-      "cena": 186,
+      "cena": 0,
       "sw_kod": "sw0554",
       "set": "součást setu 75290",
-      "_id": 101
+      "_id": 103,
+      "hodnota_figurky": 186
     },
     {
       "kod": "sw0556",
@@ -1155,7 +1259,8 @@
       "cena": 339,
       "sw_kod": "sw0556",
       "set": "-",
-      "_id": 102
+      "_id": 104,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0558",
@@ -1166,7 +1271,8 @@
       "cena": 449,
       "sw_kod": "sw0558",
       "set": "-",
-      "_id": 103
+      "_id": 105,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0566",
@@ -1177,7 +1283,8 @@
       "cena": 121,
       "sw_kod": "sw0566",
       "set": "-",
-      "_id": 104
+      "_id": 106,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0576",
@@ -1188,7 +1295,8 @@
       "cena": 340,
       "sw_kod": "sw0576",
       "set": "-",
-      "_id": 105
+      "_id": 107,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0602",
@@ -1199,7 +1307,8 @@
       "cena": 370,
       "sw_kod": "sw0602",
       "set": "-",
-      "_id": 106
+      "_id": 108,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0603",
@@ -1210,7 +1319,8 @@
       "cena": 201,
       "sw_kod": "sw0603",
       "set": "-",
-      "_id": 107
+      "_id": 109,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0604",
@@ -1221,7 +1331,8 @@
       "cena": 146,
       "sw_kod": "sw0604",
       "set": "-",
-      "_id": 108
+      "_id": 110,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0605",
@@ -1232,7 +1343,8 @@
       "cena": 243,
       "sw_kod": "sw0605",
       "set": "-",
-      "_id": 109
+      "_id": 111,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0606",
@@ -1243,7 +1355,8 @@
       "cena": 228,
       "sw_kod": "sw0606",
       "set": "-",
-      "_id": 110
+      "_id": 112,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0612",
@@ -1254,7 +1367,8 @@
       "cena": 131,
       "sw_kod": "sw0612",
       "set": "-",
-      "_id": 111
+      "_id": 113,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0614",
@@ -1265,7 +1379,8 @@
       "cena": 151,
       "sw_kod": "sw0614",
       "set": "-",
-      "_id": 112
+      "_id": 114,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0614",
@@ -1276,7 +1391,8 @@
       "cena": 160,
       "sw_kod": "sw0614",
       "set": "-",
-      "_id": 113
+      "_id": 115,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0622",
@@ -1287,7 +1403,8 @@
       "cena": 718,
       "sw_kod": "sw0622",
       "set": "-",
-      "_id": 114
+      "_id": 116,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0624",
@@ -1298,7 +1415,8 @@
       "cena": 145,
       "sw_kod": "sw0624",
       "set": "-",
-      "_id": 115
+      "_id": 117,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0624",
@@ -1309,7 +1427,8 @@
       "cena": 185,
       "sw_kod": "sw0624",
       "set": "-",
-      "_id": 116
+      "_id": 118,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0631",
@@ -1320,7 +1439,8 @@
       "cena": 1153,
       "sw_kod": "sw0631",
       "set": "-",
-      "_id": 117
+      "_id": 119,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0634",
@@ -1331,7 +1451,8 @@
       "cena": 182,
       "sw_kod": "sw0634",
       "set": "-",
-      "_id": 118
+      "_id": 120,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0635",
@@ -1342,7 +1463,8 @@
       "cena": 90,
       "sw_kod": "sw0635",
       "set": "-",
-      "_id": 119
+      "_id": 121,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0638",
@@ -1353,7 +1475,8 @@
       "cena": 255,
       "sw_kod": "sw0638",
       "set": "-",
-      "_id": 120
+      "_id": 122,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0643",
@@ -1364,7 +1487,8 @@
       "cena": 606,
       "sw_kod": "sw0643",
       "set": "-",
-      "_id": 121
+      "_id": 123,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0655",
@@ -1375,7 +1499,8 @@
       "cena": 85,
       "sw_kod": "sw0655",
       "set": "-",
-      "_id": 122
+      "_id": 124,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0658",
@@ -1386,7 +1511,8 @@
       "cena": 160,
       "sw_kod": "sw0658",
       "set": "-",
-      "_id": 123
+      "_id": 125,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0660",
@@ -1397,7 +1523,8 @@
       "cena": 111,
       "sw_kod": "sw0660",
       "set": "-",
-      "_id": 124
+      "_id": 126,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0661",
@@ -1405,10 +1532,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 84,
+      "cena": 0,
       "sw_kod": "sw0661",
       "set": "součást setu 75192",
-      "_id": 125
+      "_id": 127,
+      "hodnota_figurky": 84
     },
     {
       "kod": "sw0671",
@@ -1419,7 +1547,8 @@
       "cena": 77,
       "sw_kod": "sw0671",
       "set": "-",
-      "_id": 126
+      "_id": 128,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0673",
@@ -1430,7 +1559,8 @@
       "cena": 85,
       "sw_kod": "sw0673",
       "set": "-",
-      "_id": 127
+      "_id": 129,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0676",
@@ -1438,10 +1568,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 72,
+      "cena": 0,
       "sw_kod": "sw0676",
       "set": "součást setu 75192",
-      "_id": 128
+      "_id": 130,
+      "hodnota_figurky": 72
     },
     {
       "kod": "sw0677",
@@ -1449,10 +1580,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 97,
+      "cena": 0,
       "sw_kod": "sw0677",
       "set": "součást setu 75192",
-      "_id": 129
+      "_id": 131,
+      "hodnota_figurky": 97
     },
     {
       "kod": "sw0685",
@@ -1463,7 +1595,8 @@
       "cena": 160,
       "sw_kod": "sw0685",
       "set": "-",
-      "_id": 130
+      "_id": 132,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0687",
@@ -1474,7 +1607,8 @@
       "cena": 197,
       "sw_kod": "sw0687",
       "set": "-",
-      "_id": 131
+      "_id": 133,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0697",
@@ -1485,7 +1619,8 @@
       "cena": 77,
       "sw_kod": "sw0697",
       "set": "-",
-      "_id": 132
+      "_id": 134,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0698",
@@ -1496,7 +1631,8 @@
       "cena": 101,
       "sw_kod": "sw0698",
       "set": "-",
-      "_id": 133
+      "_id": 135,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0699",
@@ -1507,7 +1643,8 @@
       "cena": 75,
       "sw_kod": "sw0699",
       "set": "-",
-      "_id": 134
+      "_id": 136,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0699",
@@ -1518,7 +1655,8 @@
       "cena": 104,
       "sw_kod": "sw0699",
       "set": "-",
-      "_id": 135
+      "_id": 137,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0700",
@@ -1526,10 +1664,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 80,
+      "cena": 0,
       "sw_kod": "sw0700",
       "set": "součást setu 75192",
-      "_id": 136
+      "_id": 138,
+      "hodnota_figurky": 80
     },
     {
       "kod": "sw0700",
@@ -1537,10 +1676,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 80,
+      "cena": 0,
       "sw_kod": "sw0700",
       "set": "součást setu 75290",
-      "_id": 137
+      "_id": 139,
+      "hodnota_figurky": 80
     },
     {
       "kod": "sw0704",
@@ -1551,7 +1691,8 @@
       "cena": 130,
       "sw_kod": "sw0704",
       "set": "-",
-      "_id": 138
+      "_id": 140,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0705",
@@ -1562,7 +1703,8 @@
       "cena": 101,
       "sw_kod": "sw0705",
       "set": "-",
-      "_id": 139
+      "_id": 141,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0707",
@@ -1573,7 +1715,8 @@
       "cena": 155,
       "sw_kod": "sw0707",
       "set": "-",
-      "_id": 140
+      "_id": 142,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0719",
@@ -1584,7 +1727,8 @@
       "cena": 305,
       "sw_kod": "sw0719",
       "set": "-",
-      "_id": 141
+      "_id": 143,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0739",
@@ -1595,7 +1739,8 @@
       "cena": 255,
       "sw_kod": "sw0739",
       "set": "-",
-      "_id": 142
+      "_id": 144,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0742",
@@ -1606,7 +1751,8 @@
       "cena": 167,
       "sw_kod": "sw0742",
       "set": "-",
-      "_id": 143
+      "_id": 145,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0745",
@@ -1617,7 +1763,8 @@
       "cena": 1460,
       "sw_kod": "sw0745",
       "set": "-",
-      "_id": 144
+      "_id": 146,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0747",
@@ -1628,7 +1775,8 @@
       "cena": 1177,
       "sw_kod": "sw0747",
       "set": "-",
-      "_id": 145
+      "_id": 147,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0749",
@@ -1639,7 +1787,8 @@
       "cena": 1270,
       "sw_kod": "sw0749",
       "set": "-",
-      "_id": 146
+      "_id": 148,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0750",
@@ -1650,7 +1799,8 @@
       "cena": 970,
       "sw_kod": "sw0750",
       "set": "-",
-      "_id": 147
+      "_id": 149,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0751",
@@ -1661,7 +1811,8 @@
       "cena": 142,
       "sw_kod": "sw0751",
       "set": "-",
-      "_id": 148
+      "_id": 150,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0752",
@@ -1672,7 +1823,8 @@
       "cena": 410,
       "sw_kod": "sw0752",
       "set": "-",
-      "_id": 149
+      "_id": 151,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0754",
@@ -1683,7 +1835,8 @@
       "cena": 160,
       "sw_kod": "sw0754",
       "set": "-",
-      "_id": 150
+      "_id": 152,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0757",
@@ -1694,7 +1847,8 @@
       "cena": 160,
       "sw_kod": "sw0757",
       "set": "-",
-      "_id": 151
+      "_id": 153,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0760",
@@ -1705,7 +1859,8 @@
       "cena": 130,
       "sw_kod": "sw0760",
       "set": "-",
-      "_id": 152
+      "_id": 154,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0762",
@@ -1716,7 +1871,8 @@
       "cena": 95,
       "sw_kod": "sw0762",
       "set": "-",
-      "_id": 153
+      "_id": 155,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0764",
@@ -1727,7 +1883,8 @@
       "cena": 85,
       "sw_kod": "sw0764",
       "set": "-",
-      "_id": 154
+      "_id": 156,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0766",
@@ -1738,7 +1895,8 @@
       "cena": 137,
       "sw_kod": "sw0766",
       "set": "-",
-      "_id": 155
+      "_id": 157,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0770",
@@ -1749,7 +1907,8 @@
       "cena": 1855,
       "sw_kod": "sw0770",
       "set": "-",
-      "_id": 156
+      "_id": 158,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0771",
@@ -1757,10 +1916,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 159,
+      "cena": 0,
       "sw_kod": "sw0771",
       "set": "součást setu 75290",
-      "_id": 157
+      "_id": 159,
+      "hodnota_figurky": 159
     },
     {
       "kod": "sw0778",
@@ -1768,10 +1928,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 90,
+      "cena": 0,
       "sw_kod": "sw0778",
       "set": "součást setu 75290",
-      "_id": 158
+      "_id": 160,
+      "hodnota_figurky": 90
     },
     {
       "kod": "sw0808",
@@ -1782,7 +1943,8 @@
       "cena": 148,
       "sw_kod": "sw0808",
       "set": "-",
-      "_id": 159
+      "_id": 161,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0811",
@@ -1793,7 +1955,8 @@
       "cena": 1555,
       "sw_kod": "sw0811",
       "set": "-",
-      "_id": 160
+      "_id": 162,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0812",
@@ -1804,7 +1967,8 @@
       "cena": 165,
       "sw_kod": "sw0812",
       "set": "-",
-      "_id": 161
+      "_id": 163,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0816",
@@ -1815,7 +1979,8 @@
       "cena": 390,
       "sw_kod": "sw0816",
       "set": "-",
-      "_id": 162
+      "_id": 164,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0821",
@@ -1826,7 +1991,8 @@
       "cena": 225,
       "sw_kod": "sw0821",
       "set": "-",
-      "_id": 163
+      "_id": 165,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0828",
@@ -1837,7 +2003,8 @@
       "cena": 248,
       "sw_kod": "sw0828",
       "set": "-",
-      "_id": 164
+      "_id": 166,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0829",
@@ -1848,7 +2015,8 @@
       "cena": 225,
       "sw_kod": "sw0829",
       "set": "-",
-      "_id": 165
+      "_id": 167,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0833",
@@ -1859,7 +2027,8 @@
       "cena": 866,
       "sw_kod": "sw0833",
       "set": "-",
-      "_id": 166
+      "_id": 168,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0839",
@@ -1870,7 +2039,8 @@
       "cena": 145,
       "sw_kod": "sw0839",
       "set": "-",
-      "_id": 167
+      "_id": 169,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0841",
@@ -1878,10 +2048,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 310,
+      "cena": 0,
       "sw_kod": "sw0841",
       "set": "součást setu 75192",
-      "_id": 168
+      "_id": 170,
+      "hodnota_figurky": 310
     },
     {
       "kod": "sw0842",
@@ -1892,7 +2063,8 @@
       "cena": 135,
       "sw_kod": "sw0842",
       "set": "-",
-      "_id": 169
+      "_id": 171,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0859",
@@ -1903,7 +2075,8 @@
       "cena": 333,
       "sw_kod": "sw0859",
       "set": "-",
-      "_id": 170
+      "_id": 172,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0875",
@@ -1914,7 +2087,8 @@
       "cena": 95,
       "sw_kod": "sw0875",
       "set": "-",
-      "_id": 171
+      "_id": 173,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0878",
@@ -1922,10 +2096,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 460,
+      "cena": 0,
       "sw_kod": "sw0878",
       "set": "součást setu 75192",
-      "_id": 172
+      "_id": 174,
+      "hodnota_figurky": 460
     },
     {
       "kod": "sw0879",
@@ -1933,10 +2108,11 @@
       "datum": "2026-01-25",
       "od": "alza - součást nového setu LEGO 75192 (16331,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 463,
+      "cena": 0,
       "sw_kod": "sw0879",
       "set": "součást setu 75192",
-      "_id": 173
+      "_id": 175,
+      "hodnota_figurky": 463
     },
     {
       "kod": "sw0882",
@@ -1947,7 +2123,8 @@
       "cena": 470,
       "sw_kod": "sw0882",
       "set": "-",
-      "_id": 174
+      "_id": 176,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0886",
@@ -1958,7 +2135,8 @@
       "cena": 115,
       "sw_kod": "sw0886",
       "set": "-",
-      "_id": 175
+      "_id": 177,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0893",
@@ -1966,10 +2144,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 86,
+      "cena": 0,
       "sw_kod": "sw0893",
       "set": "součást setu 75290",
-      "_id": 176
+      "_id": 178,
+      "hodnota_figurky": 86
     },
     {
       "kod": "sw0897",
@@ -1977,10 +2156,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 180,
+      "cena": 0,
       "sw_kod": "sw0897",
       "set": "součást setu 75290",
-      "_id": 177
+      "_id": 179,
+      "hodnota_figurky": 180
     },
     {
       "kod": "sw0898",
@@ -1988,10 +2168,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 240,
+      "cena": 0,
       "sw_kod": "sw0898",
       "set": "součást setu 75290",
-      "_id": 178
+      "_id": 180,
+      "hodnota_figurky": 240
     },
     {
       "kod": "sw0902",
@@ -2002,7 +2183,8 @@
       "cena": 155,
       "sw_kod": "sw0902",
       "set": "-",
-      "_id": 179
+      "_id": 181,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0904",
@@ -2013,7 +2195,8 @@
       "cena": 900,
       "sw_kod": "sw0904",
       "set": "-",
-      "_id": 180
+      "_id": 182,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0905",
@@ -2024,7 +2207,8 @@
       "cena": 75,
       "sw_kod": "sw0905",
       "set": "-",
-      "_id": 181
+      "_id": 183,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0909",
@@ -2035,7 +2219,8 @@
       "cena": 241,
       "sw_kod": "sw0909",
       "set": "-",
-      "_id": 182
+      "_id": 184,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0914",
@@ -2046,7 +2231,8 @@
       "cena": 165,
       "sw_kod": "sw0914",
       "set": "-",
-      "_id": 183
+      "_id": 185,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0935",
@@ -2057,7 +2243,8 @@
       "cena": 306,
       "sw_kod": "sw0935",
       "set": "-",
-      "_id": 184
+      "_id": 186,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0940",
@@ -2068,7 +2255,8 @@
       "cena": 501,
       "sw_kod": "sw0940",
       "set": "-",
-      "_id": 185
+      "_id": 187,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0952",
@@ -2079,7 +2267,8 @@
       "cena": 323,
       "sw_kod": "sw0952",
       "set": "-",
-      "_id": 186
+      "_id": 188,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0955",
@@ -2090,7 +2279,8 @@
       "cena": 1288,
       "sw_kod": "sw0955",
       "set": "-",
-      "_id": 187
+      "_id": 189,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0957",
@@ -2101,7 +2291,8 @@
       "cena": 450,
       "sw_kod": "sw0957",
       "set": "-",
-      "_id": 188
+      "_id": 190,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0958",
@@ -2112,7 +2303,8 @@
       "cena": 323,
       "sw_kod": "sw0958",
       "set": "-",
-      "_id": 189
+      "_id": 191,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0963",
@@ -2123,7 +2315,8 @@
       "cena": 180,
       "sw_kod": "sw0963",
       "set": "-",
-      "_id": 190
+      "_id": 192,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0969",
@@ -2134,7 +2327,8 @@
       "cena": 120,
       "sw_kod": "sw0969",
       "set": "-",
-      "_id": 191
+      "_id": 193,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0977",
@@ -2145,7 +2339,8 @@
       "cena": 2159,
       "sw_kod": "sw0977",
       "set": "-",
-      "_id": 192
+      "_id": 194,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0987",
@@ -2156,7 +2351,8 @@
       "cena": 190,
       "sw_kod": "sw0987",
       "set": "-",
-      "_id": 193
+      "_id": 195,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0992",
@@ -2167,7 +2363,8 @@
       "cena": 436,
       "sw_kod": "sw0992",
       "set": "-",
-      "_id": 194
+      "_id": 196,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0995",
@@ -2178,7 +2375,8 @@
       "cena": 69,
       "sw_kod": "sw0995",
       "set": "-",
-      "_id": 195
+      "_id": 197,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw0997b",
@@ -2189,7 +2387,8 @@
       "cena": 101,
       "sw_kod": "sw0997b",
       "set": "-",
-      "_id": 196
+      "_id": 198,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1001",
@@ -2200,7 +2399,8 @@
       "cena": 96,
       "sw_kod": "sw1001",
       "set": "-",
-      "_id": 197
+      "_id": 199,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1002",
@@ -2211,7 +2411,8 @@
       "cena": 290,
       "sw_kod": "sw1002",
       "set": "-",
-      "_id": 198
+      "_id": 200,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1045",
@@ -2222,7 +2423,8 @@
       "cena": 116,
       "sw_kod": "sw1045",
       "set": "-",
-      "_id": 199
+      "_id": 201,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1046",
@@ -2230,10 +2432,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 150,
+      "cena": 0,
       "sw_kod": "sw1046",
       "set": "součást setu 75290",
-      "_id": 200
+      "_id": 202,
+      "hodnota_figurky": 150
     },
     {
       "kod": "sw1050",
@@ -2244,7 +2447,8 @@
       "cena": 131,
       "sw_kod": "sw1050",
       "set": "-",
-      "_id": 201
+      "_id": 203,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1054",
@@ -2255,7 +2459,8 @@
       "cena": 115,
       "sw_kod": "sw1054",
       "set": "-",
-      "_id": 202
+      "_id": 204,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1057",
@@ -2263,10 +2468,11 @@
       "datum": "2026-03-16",
       "od": "KITStore (Arkády Pankrác), součást setu 75292 (3899,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 599,
+      "cena": 0,
       "sw_kod": "sw1057",
       "set": "součást setu 75292",
-      "_id": 203
+      "_id": 205,
+      "hodnota_figurky": 599
     },
     {
       "kod": "sw1063",
@@ -2277,7 +2483,8 @@
       "cena": 445,
       "sw_kod": "sw1063",
       "set": "-",
-      "_id": 204
+      "_id": 206,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1064",
@@ -2288,7 +2495,8 @@
       "cena": 402,
       "sw_kod": "sw1064",
       "set": "-",
-      "_id": 205
+      "_id": 207,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1065",
@@ -2299,7 +2507,8 @@
       "cena": 98,
       "sw_kod": "sw1065",
       "set": "-",
-      "_id": 206
+      "_id": 208,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1068",
@@ -2310,7 +2519,8 @@
       "cena": 295,
       "sw_kod": "sw1068",
       "set": "-",
-      "_id": 207
+      "_id": 209,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1073",
@@ -2321,7 +2531,8 @@
       "cena": 100,
       "sw_kod": "sw1073",
       "set": "-",
-      "_id": 208
+      "_id": 210,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1074",
@@ -2332,7 +2543,8 @@
       "cena": 104,
       "sw_kod": "sw1074",
       "set": "-",
-      "_id": 209
+      "_id": 211,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1075",
@@ -2343,7 +2555,8 @@
       "cena": 115,
       "sw_kod": "sw1075",
       "set": "-",
-      "_id": 210
+      "_id": 212,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1079",
@@ -2354,7 +2567,8 @@
       "cena": 144,
       "sw_kod": "sw1079",
       "set": "-",
-      "_id": 211
+      "_id": 213,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1085",
@@ -2362,10 +2576,11 @@
       "datum": "2024-01-23",
       "od": "dárek - součást nového setu LEGO 75308 - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 80,
+      "cena": 0,
       "sw_kod": "sw1085",
       "set": "součást setu 75308",
-      "_id": 212
+      "_id": 214,
+      "hodnota_figurky": 80
     },
     {
       "kod": "sw1085",
@@ -2373,10 +2588,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 80,
+      "cena": 0,
       "sw_kod": "sw1085",
       "set": "součást setu 75290",
-      "_id": 213
+      "_id": 215,
+      "hodnota_figurky": 80
     },
     {
       "kod": "sw1094",
@@ -2387,7 +2603,8 @@
       "cena": 119,
       "sw_kod": "sw1094",
       "set": "-",
-      "_id": 214
+      "_id": 216,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1104",
@@ -2395,10 +2612,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 162,
+      "cena": 0,
       "sw_kod": "sw1104",
       "set": "součást setu 75313",
-      "_id": 215
+      "_id": 217,
+      "hodnota_figurky": 162
     },
     {
       "kod": "sw1113",
@@ -2406,10 +2624,11 @@
       "datum": "2026-03-16",
       "od": "KITStore (Arkády Pankrác), součást setu 75292 (3899,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 85,
+      "cena": 0,
       "sw_kod": "sw1113",
       "set": "součást setu 75292",
-      "_id": 216
+      "_id": 218,
+      "hodnota_figurky": 85
     },
     {
       "kod": "sw1113",
@@ -2417,10 +2636,11 @@
       "datum": "2026-03-22",
       "od": "prodejce: Alza, součást setu 75331 (13311,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 85,
+      "cena": 0,
       "sw_kod": "sw1113",
       "set": "součást setu 75331",
-      "_id": 217
+      "_id": 219,
+      "hodnota_figurky": 85
     },
     {
       "kod": "sw1113",
@@ -2428,10 +2648,11 @@
       "datum": "2026-05-21",
       "od": "Alza, součást setu 75436 (178,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 85,
+      "cena": 0,
       "sw_kod": "sw1113",
       "set": "součást setu 75436",
-      "_id": 218
+      "_id": 220,
+      "hodnota_figurky": 85
     },
     {
       "kod": "sw1114",
@@ -2439,10 +2660,11 @@
       "datum": "2026-03-16",
       "od": "KITStore (Arkády Pankrác), součást setu 75292 (3899,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 165,
+      "cena": 0,
       "sw_kod": "sw1114",
       "set": "součást setu 75292",
-      "_id": 219
+      "_id": 221,
+      "hodnota_figurky": 165
     },
     {
       "kod": "sw1115",
@@ -2450,10 +2672,11 @@
       "datum": "2026-03-16",
       "od": "KITStore (Arkády Pankrác), součást setu 75292 (3899,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 100,
+      "cena": 0,
       "sw_kod": "sw1115",
       "set": "součást setu 75292",
-      "_id": 220
+      "_id": 222,
+      "hodnota_figurky": 100
     },
     {
       "kod": "sw1116",
@@ -2461,10 +2684,11 @@
       "datum": "2026-03-16",
       "od": "KITStore (Arkády Pankrác), součást setu 75292 (3899,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 150,
+      "cena": 0,
       "sw_kod": "sw1116",
       "set": "součást setu 75292",
-      "_id": 221
+      "_id": 223,
+      "hodnota_figurky": 150
     },
     {
       "kod": "sw1124",
@@ -2472,10 +2696,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 450,
+      "cena": 0,
       "sw_kod": "sw1124",
       "set": "součást setu 75290",
-      "_id": 222
+      "_id": 224,
+      "hodnota_figurky": 450
     },
     {
       "kod": "sw1125",
@@ -2483,10 +2708,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 216,
+      "cena": 0,
       "sw_kod": "sw1125",
       "set": "součást setu 75290",
-      "_id": 223
+      "_id": 225,
+      "hodnota_figurky": 216
     },
     {
       "kod": "sw1126",
@@ -2494,10 +2720,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 490,
+      "cena": 0,
       "sw_kod": "sw1126",
       "set": "součást setu 75290",
-      "_id": 224
+      "_id": 226,
+      "hodnota_figurky": 490
     },
     {
       "kod": "sw1127",
@@ -2505,10 +2732,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 739,
+      "cena": 0,
       "sw_kod": "sw1127",
       "set": "součást setu 75290",
-      "_id": 225
+      "_id": 227,
+      "hodnota_figurky": 739
     },
     {
       "kod": "sw1128",
@@ -2516,10 +2744,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 499,
+      "cena": 0,
       "sw_kod": "sw1128",
       "set": "součást setu 75290",
-      "_id": 226
+      "_id": 228,
+      "hodnota_figurky": 499
     },
     {
       "kod": "sw1129",
@@ -2527,10 +2756,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 297,
+      "cena": 0,
       "sw_kod": "sw1129",
       "set": "součást setu 75290",
-      "_id": 227
+      "_id": 229,
+      "hodnota_figurky": 297
     },
     {
       "kod": "sw1130",
@@ -2538,10 +2768,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 330,
+      "cena": 0,
       "sw_kod": "sw1130",
       "set": "součást setu 75290",
-      "_id": 228
+      "_id": 230,
+      "hodnota_figurky": 330
     },
     {
       "kod": "sw1131",
@@ -2549,10 +2780,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 549,
+      "cena": 0,
       "sw_kod": "sw1131",
       "set": "součást setu 75290",
-      "_id": 229
+      "_id": 231,
+      "hodnota_figurky": 549
     },
     {
       "kod": "sw1132",
@@ -2560,10 +2792,11 @@
       "datum": "2026-04-03",
       "od": "KV (Pavel) bazos.cz tel. 604143584 - součást nového setu LEGO 75290 (7200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 500,
+      "cena": 0,
       "sw_kod": "sw1132",
       "set": "součást setu 75290",
-      "_id": 230
+      "_id": 232,
+      "hodnota_figurky": 500
     },
     {
       "kod": "sw1136",
@@ -2574,7 +2807,8 @@
       "cena": 130,
       "sw_kod": "sw1136",
       "set": "-",
-      "_id": 231
+      "_id": 233,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1139",
@@ -2582,10 +2816,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 95,
+      "cena": 0,
       "sw_kod": "sw1139",
       "set": "součást setu 75313",
-      "_id": 232
+      "_id": 234,
+      "hodnota_figurky": 95
     },
     {
       "kod": "sw1140",
@@ -2596,7 +2831,8 @@
       "cena": 101,
       "sw_kod": "sw1140",
       "set": "-",
-      "_id": 233
+      "_id": 235,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1150",
@@ -2607,7 +2843,8 @@
       "cena": 955,
       "sw_kod": "sw1150",
       "set": "-",
-      "_id": 234
+      "_id": 236,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1156",
@@ -2618,7 +2855,8 @@
       "cena": 99,
       "sw_kod": "sw1156",
       "set": "-",
-      "_id": 235
+      "_id": 237,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1158",
@@ -2629,7 +2867,8 @@
       "cena": 161,
       "sw_kod": "sw1158",
       "set": "-",
-      "_id": 236
+      "_id": 238,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1160",
@@ -2640,7 +2879,8 @@
       "cena": 1065,
       "sw_kod": "sw1160",
       "set": "-",
-      "_id": 237
+      "_id": 239,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1161",
@@ -2651,7 +2891,8 @@
       "cena": 115,
       "sw_kod": "sw1161",
       "set": "-",
-      "_id": 238
+      "_id": 240,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1166",
@@ -2662,7 +2903,8 @@
       "cena": 135,
       "sw_kod": "sw1166",
       "set": "-",
-      "_id": 239
+      "_id": 241,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1175",
@@ -2670,10 +2912,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 700,
+      "cena": 0,
       "sw_kod": "sw1175",
       "set": "součást setu 75313",
-      "_id": 240
+      "_id": 242,
+      "hodnota_figurky": 700
     },
     {
       "kod": "sw1176",
@@ -2681,10 +2924,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 300,
+      "cena": 0,
       "sw_kod": "sw1176",
       "set": "součást setu 75313",
-      "_id": 241
+      "_id": 243,
+      "hodnota_figurky": 300
     },
     {
       "kod": "sw1177",
@@ -2692,10 +2936,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 244,
+      "cena": 0,
       "sw_kod": "sw1177",
       "set": "součást setu 75313",
-      "_id": 242
+      "_id": 244,
+      "hodnota_figurky": 244
     },
     {
       "kod": "sw1178",
@@ -2703,10 +2948,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 78,
+      "cena": 0,
       "sw_kod": "sw1178",
       "set": "součást setu 75313",
-      "_id": 243
+      "_id": 245,
+      "hodnota_figurky": 78
     },
     {
       "kod": "sw1179",
@@ -2714,10 +2960,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 78,
+      "cena": 0,
       "sw_kod": "sw1179",
       "set": "součást setu 75313",
-      "_id": 244
+      "_id": 246,
+      "hodnota_figurky": 78
     },
     {
       "kod": "sw1180",
@@ -2725,10 +2972,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 126,
+      "cena": 0,
       "sw_kod": "sw1180",
       "set": "součást setu 75313",
-      "_id": 245
+      "_id": 247,
+      "hodnota_figurky": 126
     },
     {
       "kod": "sw1181",
@@ -2736,10 +2984,11 @@
       "datum": "2026-03-08",
       "od": "branislavm100 (aukro), součást setu 75313 (25499,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 78,
+      "cena": 0,
       "sw_kod": "sw1181",
       "set": "součást setu 75313",
-      "_id": 246
+      "_id": 248,
+      "hodnota_figurky": 78
     },
     {
       "kod": "sw1201",
@@ -2747,10 +2996,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 118,
+      "cena": 0,
       "sw_kod": "sw1201",
       "set": "součást setu 75419",
-      "_id": 247
+      "_id": 249,
+      "hodnota_figurky": 118
     },
     {
       "kod": "sw1202",
@@ -2758,10 +3008,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 95,
+      "cena": 0,
       "sw_kod": "sw1202",
       "set": "součást setu 75419",
-      "_id": 248
+      "_id": 250,
+      "hodnota_figurky": 95
     },
     {
       "kod": "sw1204",
@@ -2772,7 +3023,8 @@
       "cena": 166,
       "sw_kod": "sw1204",
       "set": "-",
-      "_id": 249
+      "_id": 251,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1207",
@@ -2783,7 +3035,8 @@
       "cena": 315,
       "sw_kod": "sw1207",
       "set": "-",
-      "_id": 250
+      "_id": 252,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1208",
@@ -2794,7 +3047,8 @@
       "cena": 469,
       "sw_kod": "sw1208",
       "set": "-",
-      "_id": 251
+      "_id": 253,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1209",
@@ -2802,10 +3056,11 @@
       "datum": "2024-12-24",
       "od": "dárek - součást nového setu LEGO 75398 - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 300,
+      "cena": 0,
       "sw_kod": "sw1209",
       "set": "součást setu 75398",
-      "_id": 252
+      "_id": 254,
+      "hodnota_figurky": 300
     },
     {
       "kod": "sw1213",
@@ -2813,10 +3068,11 @@
       "datum": "2026-04-24",
       "od": "Plzeň (bazos.cz) tel. 728211677 - součást nového setu LEGO 75335 (3200,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 850,
+      "cena": 0,
       "sw_kod": "sw1213",
       "set": "součást setu 75335",
-      "_id": 253
+      "_id": 255,
+      "hodnota_figurky": 850
     },
     {
       "kod": "sw1216",
@@ -2824,10 +3080,11 @@
       "datum": "2026-04-10",
       "od": "alza - součást nového setu LEGO 75333 (602,-) - hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 154,
+      "cena": 0,
       "sw_kod": "sw1216",
       "set": "součást setu 75333",
-      "_id": 254
+      "_id": 256,
+      "hodnota_figurky": 154
     },
     {
       "kod": "sw1219",
@@ -2838,7 +3095,8 @@
       "cena": 440,
       "sw_kod": "sw1219",
       "set": "-",
-      "_id": 255
+      "_id": 257,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1220",
@@ -2846,10 +3104,11 @@
       "datum": "2026-04-10",
       "od": "alza - součást nového setu LEGO 75333 (602,-) - hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 99,
+      "cena": 0,
       "sw_kod": "sw1220",
       "set": "součást setu 75333",
-      "_id": 256
+      "_id": 258,
+      "hodnota_figurky": 99
     },
     {
       "kod": "sw1221",
@@ -2857,10 +3116,11 @@
       "datum": "2026-04-10",
       "od": "alza - součást nového setu LEGO 75333 (602,-) - hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 60,
+      "cena": 0,
       "sw_kod": "sw1221",
       "set": "součást setu 75333",
-      "_id": 257
+      "_id": 259,
+      "hodnota_figurky": 60
     },
     {
       "kod": "sw1224",
@@ -2871,7 +3131,8 @@
       "cena": 205,
       "sw_kod": "sw1224",
       "set": "-",
-      "_id": 258
+      "_id": 260,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1231",
@@ -2882,7 +3143,8 @@
       "cena": 199,
       "sw_kod": "sw1231",
       "set": "-",
-      "_id": 259
+      "_id": 261,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1233",
@@ -2893,7 +3155,8 @@
       "cena": 425,
       "sw_kod": "sw1233",
       "set": "-",
-      "_id": 260
+      "_id": 262,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1242",
@@ -2901,10 +3164,11 @@
       "datum": "2026-03-22",
       "od": "prodejce: Alza, součást setu 75331 (13311,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 800,
+      "cena": 0,
       "sw_kod": "sw1242",
       "set": "součást setu 75331",
-      "_id": 261
+      "_id": 263,
+      "hodnota_figurky": 800
     },
     {
       "kod": "sw1243",
@@ -2912,10 +3176,11 @@
       "datum": "2026-03-22",
       "od": "prodejce: Alza, součást setu 75331 (13311,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 833,
+      "cena": 0,
       "sw_kod": "sw1243",
       "set": "součást setu 75331",
-      "_id": 262
+      "_id": 264,
+      "hodnota_figurky": 833
     },
     {
       "kod": "sw1244",
@@ -2923,10 +3188,11 @@
       "datum": "2026-03-22",
       "od": "prodejce: Alza, součást setu 75331 (13311,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 975,
+      "cena": 0,
       "sw_kod": "sw1244",
       "set": "součást setu 75331",
-      "_id": 263
+      "_id": 265,
+      "hodnota_figurky": 975
     },
     {
       "kod": "sw1246",
@@ -2937,7 +3203,8 @@
       "cena": 80,
       "sw_kod": "sw1246",
       "set": "-",
-      "_id": 264
+      "_id": 266,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1247",
@@ -2948,7 +3215,8 @@
       "cena": 75,
       "sw_kod": "sw1247",
       "set": "-",
-      "_id": 265
+      "_id": 267,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1248",
@@ -2959,7 +3227,8 @@
       "cena": 28,
       "sw_kod": "sw1248",
       "set": "-",
-      "_id": 266
+      "_id": 268,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1249",
@@ -2970,7 +3239,8 @@
       "cena": 125,
       "sw_kod": "sw1249",
       "set": "-",
-      "_id": 267
+      "_id": 269,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1249",
@@ -2978,10 +3248,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 137,
+      "cena": 0,
       "sw_kod": "sw1249",
       "set": "součást setu 75419",
-      "_id": 268
+      "_id": 270,
+      "hodnota_figurky": 137
     },
     {
       "kod": "sw1257",
@@ -2992,7 +3263,8 @@
       "cena": 130,
       "sw_kod": "sw1257",
       "set": "-",
-      "_id": 269
+      "_id": 271,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1260",
@@ -3003,7 +3275,8 @@
       "cena": 115,
       "sw_kod": "sw1260",
       "set": "-",
-      "_id": 270
+      "_id": 272,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1263",
@@ -3011,10 +3284,11 @@
       "datum": "2026-03-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 184,
+      "cena": 0,
       "sw_kod": "sw1263",
       "set": "součást setu 75419",
-      "_id": 271
+      "_id": 273,
+      "hodnota_figurky": 184
     },
     {
       "kod": "sw1265",
@@ -3025,7 +3299,8 @@
       "cena": 79,
       "sw_kod": "sw1265",
       "set": "-",
-      "_id": 272
+      "_id": 274,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1274",
@@ -3036,7 +3311,8 @@
       "cena": 135,
       "sw_kod": "sw1274",
       "set": "-",
-      "_id": 273
+      "_id": 275,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1278",
@@ -3044,10 +3320,11 @@
       "datum": "2026-03-30",
       "od": "alza - součást nového setu LEGO 75449 (379,-) - cena figurky dle dne zakoupení (2ks)",
       "stav": "nové",
-      "cena": 60,
+      "cena": 0,
       "sw_kod": "sw1278",
       "set": "součást setu 75449",
-      "_id": 274
+      "_id": 276,
+      "hodnota_figurky": 60
     },
     {
       "kod": "sw1296",
@@ -3058,7 +3335,8 @@
       "cena": 120,
       "sw_kod": "sw1296",
       "set": "-",
-      "_id": 275
+      "_id": 277,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1297",
@@ -3069,7 +3347,8 @@
       "cena": 106,
       "sw_kod": "sw1297",
       "set": "-",
-      "_id": 276
+      "_id": 278,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1305",
@@ -3080,7 +3359,8 @@
       "cena": 102,
       "sw_kod": "sw1305",
       "set": "-",
-      "_id": 277
+      "_id": 279,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1315",
@@ -3088,10 +3368,11 @@
       "datum": "2026-02-03",
       "od": "Petr Janás (aukro) - součást nového setu LEGO 75391 (189,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 150,
+      "cena": 0,
       "sw_kod": "sw1315",
       "set": "součást setu 75391",
-      "_id": 278
+      "_id": 280,
+      "hodnota_figurky": 150
     },
     {
       "kod": "sw1319",
@@ -3102,7 +3383,8 @@
       "cena": 87,
       "sw_kod": "sw1319",
       "set": "-",
-      "_id": 279
+      "_id": 281,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1321",
@@ -3110,10 +3392,11 @@
       "datum": "2026-03-06",
       "od": "smarty.cz součást setu 75431 (599,-), hodnota figurky dle dne zakoupení (3ks)",
       "stav": "nové",
-      "cena": 25,
+      "cena": 0,
       "sw_kod": "sw1321",
       "set": "součást setu 75431",
-      "_id": 280
+      "_id": 282,
+      "hodnota_figurky": 25
     },
     {
       "kod": "sw1325",
@@ -3121,10 +3404,11 @@
       "datum": "2026-02-03",
       "od": "Pompo - součást nového setu LEGO 75379 (1947,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 800,
+      "cena": 0,
       "sw_kod": "sw1325",
       "set": "součást setu 75379",
-      "_id": 281
+      "_id": 283,
+      "hodnota_figurky": 800
     },
     {
       "kod": "sw1326",
@@ -3135,7 +3419,8 @@
       "cena": 85,
       "sw_kod": "sw1326",
       "set": "-",
-      "_id": 282
+      "_id": 284,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1326",
@@ -3146,7 +3431,8 @@
       "cena": 85,
       "sw_kod": "sw1326",
       "set": "-",
-      "_id": 283
+      "_id": 285,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1326",
@@ -3154,10 +3440,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 82,
+      "cena": 0,
       "sw_kod": "sw1326",
       "set": "součást setu 75419",
-      "_id": 284
+      "_id": 286,
+      "hodnota_figurky": 82
     },
     {
       "kod": "sw1328",
@@ -3168,7 +3455,8 @@
       "cena": 69,
       "sw_kod": "sw1328",
       "set": "-",
-      "_id": 285
+      "_id": 287,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1329",
@@ -3179,7 +3467,8 @@
       "cena": 284,
       "sw_kod": "sw1329",
       "set": "-",
-      "_id": 286
+      "_id": 288,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1330",
@@ -3190,7 +3479,8 @@
       "cena": 359,
       "sw_kod": "sw1330",
       "set": "-",
-      "_id": 287
+      "_id": 289,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1332",
@@ -3201,7 +3491,8 @@
       "cena": 67,
       "sw_kod": "sw1332",
       "set": "-",
-      "_id": 288
+      "_id": 290,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1333",
@@ -3212,7 +3503,8 @@
       "cena": 115,
       "sw_kod": "sw1333",
       "set": "-",
-      "_id": 289
+      "_id": 291,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1334b",
@@ -3223,7 +3515,8 @@
       "cena": 220,
       "sw_kod": "sw1334b",
       "set": "-",
-      "_id": 290
+      "_id": 292,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1335",
@@ -3234,7 +3527,8 @@
       "cena": 680,
       "sw_kod": "sw1335",
       "set": "-",
-      "_id": 291
+      "_id": 293,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1342",
@@ -3245,7 +3539,8 @@
       "cena": 169,
       "sw_kod": "sw1342",
       "set": "-",
-      "_id": 292
+      "_id": 294,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1343",
@@ -3256,7 +3551,8 @@
       "cena": 81,
       "sw_kod": "sw1343",
       "set": "-",
-      "_id": 293
+      "_id": 295,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1345",
@@ -3267,7 +3563,8 @@
       "cena": 90,
       "sw_kod": "sw1345",
       "set": "-",
-      "_id": 294
+      "_id": 296,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1346",
@@ -3278,7 +3575,8 @@
       "cena": 99,
       "sw_kod": "sw1346",
       "set": "-",
-      "_id": 295
+      "_id": 297,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1349",
@@ -3286,10 +3584,11 @@
       "datum": "2026-04-21",
       "od": "prodejce: morekostek.cz (Plzeň), součást setu 75374 (2439,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 201,
+      "cena": 0,
       "sw_kod": "sw1349",
       "set": "součást setu 75374",
-      "_id": 296
+      "_id": 298,
+      "hodnota_figurky": 201
     },
     {
       "kod": "sw1350",
@@ -3297,10 +3596,11 @@
       "datum": "2026-04-21",
       "od": "prodejce: morekostek.cz (Plzeň), součást setu 75374 (2439,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 672,
+      "cena": 0,
       "sw_kod": "sw1350",
       "set": "součást setu 75374",
-      "_id": 297
+      "_id": 299,
+      "hodnota_figurky": 672
     },
     {
       "kod": "sw1351",
@@ -3308,10 +3608,11 @@
       "datum": "2026-04-21",
       "od": "prodejce: morekostek.cz (Plzeň), součást setu 75374 (2439,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 149,
+      "cena": 0,
       "sw_kod": "sw1351",
       "set": "součást setu 75374",
-      "_id": 298
+      "_id": 300,
+      "hodnota_figurky": 149
     },
     {
       "kod": "sw1352",
@@ -3319,10 +3620,11 @@
       "datum": "2026-04-21",
       "od": "prodejce: morekostek.cz (Plzeň), součást setu 75374 (2439,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 181,
+      "cena": 0,
       "sw_kod": "sw1352",
       "set": "součást setu 75374",
-      "_id": 299
+      "_id": 301,
+      "hodnota_figurky": 181
     },
     {
       "kod": "sw1353",
@@ -3333,7 +3635,8 @@
       "cena": 219,
       "sw_kod": "sw1353",
       "set": "-",
-      "_id": 300
+      "_id": 302,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1353",
@@ -3341,10 +3644,11 @@
       "datum": "2026-04-21",
       "od": "prodejce: morekostek.cz (Plzeň), součást setu 75374 (2439,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 213,
+      "cena": 0,
       "sw_kod": "sw1353",
       "set": "součást setu 75374",
-      "_id": 301
+      "_id": 303,
+      "hodnota_figurky": 213
     },
     {
       "kod": "sw1354",
@@ -3355,7 +3659,8 @@
       "cena": 139,
       "sw_kod": "sw1354",
       "set": "-",
-      "_id": 302
+      "_id": 304,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1355",
@@ -3366,7 +3671,8 @@
       "cena": 148,
       "sw_kod": "sw1355",
       "set": "-",
-      "_id": 303
+      "_id": 305,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1357",
@@ -3377,7 +3683,8 @@
       "cena": 117,
       "sw_kod": "sw1357",
       "set": "-",
-      "_id": 304
+      "_id": 306,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1358",
@@ -3385,10 +3692,11 @@
       "datum": "2026-02-02",
       "od": "alza - součást nového setu LEGO 75412 (350,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 85,
+      "cena": 0,
       "sw_kod": "sw1358",
       "set": "součást setu 75412",
-      "_id": 305
+      "_id": 307,
+      "hodnota_figurky": 85
     },
     {
       "kod": "sw1364",
@@ -3399,7 +3707,8 @@
       "cena": 380,
       "sw_kod": "sw1364",
       "set": "-",
-      "_id": 306
+      "_id": 308,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1364",
@@ -3407,10 +3716,11 @@
       "datum": "2026-04-09",
       "od": "prodejce: alza - součást nového setu LEGO 75389 (2867,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 288,
+      "cena": 0,
       "sw_kod": "sw1364",
       "set": "součást setu 75389",
-      "_id": 307
+      "_id": 309,
+      "hodnota_figurky": 288
     },
     {
       "kod": "sw1365",
@@ -3418,10 +3728,11 @@
       "datum": "2026-04-09",
       "od": "prodejce: alza - součást nového setu LEGO 75389 (2867,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 150,
+      "cena": 0,
       "sw_kod": "sw1365",
       "set": "součást setu 75389",
-      "_id": 308
+      "_id": 310,
+      "hodnota_figurky": 150
     },
     {
       "kod": "sw1366",
@@ -3432,7 +3743,8 @@
       "cena": 205,
       "sw_kod": "sw1366",
       "set": "-",
-      "_id": 309
+      "_id": 311,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1366",
@@ -3440,10 +3752,11 @@
       "datum": "2026-04-09",
       "od": "prodejce: alza - součást nového setu LEGO 75389 (2867,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 189,
+      "cena": 0,
       "sw_kod": "sw1366",
       "set": "součást setu 75389",
-      "_id": 310
+      "_id": 312,
+      "hodnota_figurky": 189
     },
     {
       "kod": "sw1367",
@@ -3454,7 +3767,8 @@
       "cena": 356,
       "sw_kod": "sw1367",
       "set": "-",
-      "_id": 311
+      "_id": 313,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1367",
@@ -3462,10 +3776,11 @@
       "datum": "2026-04-09",
       "od": "prodejce: alza - součást nového setu LEGO 75389 (2867,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 280,
+      "cena": 0,
       "sw_kod": "sw1367",
       "set": "součást setu 75389",
-      "_id": 312
+      "_id": 314,
+      "hodnota_figurky": 280
     },
     {
       "kod": "sw1368",
@@ -3473,10 +3788,11 @@
       "datum": "2026-04-09",
       "od": "prodejce: alza - součást nového setu LEGO 75389 (2867,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 150,
+      "cena": 0,
       "sw_kod": "sw1368",
       "set": "součást setu 75389",
-      "_id": 313
+      "_id": 315,
+      "hodnota_figurky": 150
     },
     {
       "kod": "sw1369",
@@ -3487,7 +3803,8 @@
       "cena": 165,
       "sw_kod": "sw1369",
       "set": "-",
-      "_id": 314
+      "_id": 316,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1370",
@@ -3498,7 +3815,8 @@
       "cena": 135,
       "sw_kod": "sw1370",
       "set": "-",
-      "_id": 315
+      "_id": 317,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1372",
@@ -3509,7 +3827,8 @@
       "cena": 321,
       "sw_kod": "sw1372",
       "set": "-",
-      "_id": 316
+      "_id": 318,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1373",
@@ -3517,10 +3836,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 200,
+      "cena": 0,
       "sw_kod": "sw1373",
       "set": "součást setu 75419",
-      "_id": 317
+      "_id": 319,
+      "hodnota_figurky": 200
     },
     {
       "kod": "sw1375",
@@ -3528,10 +3848,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 134,
+      "cena": 0,
       "sw_kod": "sw1375",
       "set": "součást setu 75419",
-      "_id": 318
+      "_id": 320,
+      "hodnota_figurky": 134
     },
     {
       "kod": "sw1379",
@@ -3542,7 +3863,8 @@
       "cena": 233,
       "sw_kod": "sw1379",
       "set": "-",
-      "_id": 319
+      "_id": 321,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1384",
@@ -3553,7 +3875,8 @@
       "cena": 650,
       "sw_kod": "sw1384",
       "set": "-",
-      "_id": 320
+      "_id": 322,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1386",
@@ -3564,7 +3887,8 @@
       "cena": 285,
       "sw_kod": "sw1386",
       "set": "-",
-      "_id": 321
+      "_id": 323,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1387",
@@ -3575,7 +3899,8 @@
       "cena": 280,
       "sw_kod": "sw1387",
       "set": "-",
-      "_id": 322
+      "_id": 324,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1388",
@@ -3586,7 +3911,8 @@
       "cena": 1000,
       "sw_kod": "sw1388",
       "set": "-",
-      "_id": 323
+      "_id": 325,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1389",
@@ -3597,7 +3923,8 @@
       "cena": 911,
       "sw_kod": "sw1389",
       "set": "-",
-      "_id": 324
+      "_id": 326,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1390",
@@ -3608,7 +3935,8 @@
       "cena": 480,
       "sw_kod": "sw1390",
       "set": "-",
-      "_id": 325
+      "_id": 327,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1405",
@@ -3619,7 +3947,8 @@
       "cena": 272,
       "sw_kod": "sw1405",
       "set": "-",
-      "_id": 326
+      "_id": 328,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1407",
@@ -3627,10 +3956,11 @@
       "datum": "2026-04-19",
       "od": "alza - součást nového setu LEGO 75433 (1164,-) - hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 149,
+      "cena": 0,
       "sw_kod": "sw1407",
       "set": "součást setu 75433",
-      "_id": 327
+      "_id": 329,
+      "hodnota_figurky": 149
     },
     {
       "kod": "sw1409",
@@ -3641,7 +3971,8 @@
       "cena": 183,
       "sw_kod": "sw1409",
       "set": "-",
-      "_id": 328
+      "_id": 330,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1410",
@@ -3652,7 +3983,8 @@
       "cena": 135,
       "sw_kod": "sw1410",
       "set": "-",
-      "_id": 329
+      "_id": 331,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1411",
@@ -3663,7 +3995,8 @@
       "cena": 215,
       "sw_kod": "sw1411",
       "set": "-",
-      "_id": 330
+      "_id": 332,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1412",
@@ -3674,7 +4007,8 @@
       "cena": 182,
       "sw_kod": "sw1412",
       "set": "-",
-      "_id": 331
+      "_id": 333,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1414",
@@ -3685,7 +4019,8 @@
       "cena": 175,
       "sw_kod": "sw1414",
       "set": "-",
-      "_id": 332
+      "_id": 334,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1415",
@@ -3696,7 +4031,8 @@
       "cena": 130,
       "sw_kod": "sw1415",
       "set": "-",
-      "_id": 333
+      "_id": 335,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1416",
@@ -3704,10 +4040,11 @@
       "datum": "2026-02-02",
       "od": "alza - součást nového setu LEGO 75412 (350,-) - cena figurky dle dne zakoupení, počet 2 ks",
       "stav": "nové",
-      "cena": 50,
+      "cena": 0,
       "sw_kod": "sw1416",
       "set": "součást setu 75412",
-      "_id": 334
+      "_id": 336,
+      "hodnota_figurky": 50
     },
     {
       "kod": "sw1417",
@@ -3715,10 +4052,11 @@
       "datum": "2026-02-02",
       "od": "prodejce: alza - součást nového setu LEGO 75412 (350,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 50,
+      "cena": 0,
       "sw_kod": "sw1417",
       "set": "součást setu 75412",
-      "_id": 335
+      "_id": 337,
+      "hodnota_figurky": 50
     },
     {
       "kod": "sw1421",
@@ -3726,10 +4064,11 @@
       "datum": "2026-03-06",
       "od": "smarty.cz součást setu 75431 (599,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 60,
+      "cena": 0,
       "sw_kod": "sw1421",
       "set": "součást setu 75431",
-      "_id": 336
+      "_id": 338,
+      "hodnota_figurky": 60
     },
     {
       "kod": "sw1422",
@@ -3737,10 +4076,11 @@
       "datum": "2026-03-06",
       "od": "smarty.cz součást setu 75431 (599,-), hodnota figurky dle dne zakoupení (3ks)",
       "stav": "nové",
-      "cena": 115,
+      "cena": 0,
       "sw_kod": "sw1422",
       "set": "součást setu 75431",
-      "_id": 337
+      "_id": 339,
+      "hodnota_figurky": 115
     },
     {
       "kod": "sw1423",
@@ -3748,10 +4088,11 @@
       "datum": "2026-03-06",
       "od": "smarty.cz součást setu 75431 (599,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 130,
+      "cena": 0,
       "sw_kod": "sw1423",
       "set": "součást setu 75431",
-      "_id": 338
+      "_id": 340,
+      "hodnota_figurky": 130
     },
     {
       "kod": "sw1426",
@@ -3762,7 +4103,8 @@
       "cena": 205,
       "sw_kod": "sw1426",
       "set": "-",
-      "_id": 339
+      "_id": 341,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1430",
@@ -3770,10 +4112,11 @@
       "datum": "2026-04-21",
       "od": "morekostek.cz (Plzeň), součást setu 75413 (2799,-), hodnota figurky dle dne zakoupení (3ks)",
       "stav": "nové",
-      "cena": 447,
+      "cena": 0,
       "sw_kod": "sw1430",
       "set": "součást setu 75413",
-      "_id": 340
+      "_id": 342,
+      "hodnota_figurky": 447
     },
     {
       "kod": "sw1431",
@@ -3781,10 +4124,11 @@
       "datum": "2026-04-21",
       "od": "morekostek.cz (Plzeň), součást setu 75413 (2799,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 701,
+      "cena": 0,
       "sw_kod": "sw1431",
       "set": "součást setu 75413",
-      "_id": 341
+      "_id": 343,
+      "hodnota_figurky": 701
     },
     {
       "kod": "sw1432",
@@ -3792,10 +4136,11 @@
       "datum": "2026-04-21",
       "od": "morekostek.cz (Plzeň), součást setu 75413 (2799,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 344,
+      "cena": 0,
       "sw_kod": "sw1432",
       "set": "součást setu 75413",
-      "_id": 342
+      "_id": 344,
+      "hodnota_figurky": 344
     },
     {
       "kod": "sw1433",
@@ -3803,10 +4148,11 @@
       "datum": "2026-04-19",
       "od": "alza - součást nového setu LEGO 75433 (1164,-) - hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 251,
+      "cena": 0,
       "sw_kod": "sw1433",
       "set": "součást setu 75433",
-      "_id": 343
+      "_id": 345,
+      "hodnota_figurky": 251
     },
     {
       "kod": "sw1434",
@@ -3814,10 +4160,11 @@
       "datum": "2026-04-19",
       "od": "alza - součást nového setu LEGO 75433 (1164,-) - hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 399,
+      "cena": 0,
       "sw_kod": "sw1434",
       "set": "součást setu 75433",
-      "_id": 344
+      "_id": 346,
+      "hodnota_figurky": 399
     },
     {
       "kod": "sw1453",
@@ -3825,10 +4172,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 256,
+      "cena": 0,
       "sw_kod": "sw1453",
       "set": "součást setu 75419",
-      "_id": 345
+      "_id": 347,
+      "hodnota_figurky": 256
     },
     {
       "kod": "sw1454",
@@ -3836,10 +4184,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 157,
+      "cena": 0,
       "sw_kod": "sw1454",
       "set": "součást setu 75419",
-      "_id": 346
+      "_id": 348,
+      "hodnota_figurky": 157
     },
     {
       "kod": "sw1455",
@@ -3847,10 +4196,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 130,
+      "cena": 0,
       "sw_kod": "sw1455",
       "set": "součást setu 75419",
-      "_id": 347
+      "_id": 349,
+      "hodnota_figurky": 130
     },
     {
       "kod": "sw1456",
@@ -3858,10 +4208,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 169,
+      "cena": 0,
       "sw_kod": "sw1456",
       "set": "součást setu 75419",
-      "_id": 348
+      "_id": 350,
+      "hodnota_figurky": 169
     },
     {
       "kod": "sw1457",
@@ -3869,10 +4220,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 288,
+      "cena": 0,
       "sw_kod": "sw1457",
       "set": "součást setu 75419",
-      "_id": 349
+      "_id": 351,
+      "hodnota_figurky": 288
     },
     {
       "kod": "sw1458",
@@ -3880,10 +4232,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 173,
+      "cena": 0,
       "sw_kod": "sw1458",
       "set": "součást setu 75419",
-      "_id": 350
+      "_id": 352,
+      "hodnota_figurky": 173
     },
     {
       "kod": "sw1459",
@@ -3891,10 +4244,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 249,
+      "cena": 0,
       "sw_kod": "sw1459",
       "set": "součást setu 75419",
-      "_id": 351
+      "_id": 353,
+      "hodnota_figurky": 249
     },
     {
       "kod": "sw1460",
@@ -3902,10 +4256,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 203,
+      "cena": 0,
       "sw_kod": "sw1460",
       "set": "součást setu 75419",
-      "_id": 352
+      "_id": 354,
+      "hodnota_figurky": 203
     },
     {
       "kod": "sw1461",
@@ -3913,10 +4268,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 119,
+      "cena": 0,
       "sw_kod": "sw1461",
       "set": "součást setu 75419",
-      "_id": 353
+      "_id": 355,
+      "hodnota_figurky": 119
     },
     {
       "kod": "sw1462",
@@ -3924,10 +4280,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 288,
+      "cena": 0,
       "sw_kod": "sw1462",
       "set": "součást setu 75419",
-      "_id": 354
+      "_id": 356,
+      "hodnota_figurky": 288
     },
     {
       "kod": "sw1463",
@@ -3935,10 +4292,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 182,
+      "cena": 0,
       "sw_kod": "sw1463",
       "set": "součást setu 75419",
-      "_id": 355
+      "_id": 357,
+      "hodnota_figurky": 182
     },
     {
       "kod": "sw1464",
@@ -3946,10 +4304,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 147,
+      "cena": 0,
       "sw_kod": "sw1464",
       "set": "součást setu 75419",
-      "_id": 356
+      "_id": 358,
+      "hodnota_figurky": 147
     },
     {
       "kod": "sw1465",
@@ -3957,10 +4316,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 408,
+      "cena": 0,
       "sw_kod": "sw1465",
       "set": "součást setu 75419",
-      "_id": 357
+      "_id": 359,
+      "hodnota_figurky": 408
     },
     {
       "kod": "sw1466",
@@ -3968,10 +4328,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 624,
+      "cena": 0,
       "sw_kod": "sw1466",
       "set": "součást setu 75419",
-      "_id": 358
+      "_id": 360,
+      "hodnota_figurky": 624
     },
     {
       "kod": "sw1467",
@@ -3979,10 +4340,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 413,
+      "cena": 0,
       "sw_kod": "sw1467",
       "set": "součást setu 75419",
-      "_id": 359
+      "_id": 361,
+      "hodnota_figurky": 413
     },
     {
       "kod": "sw1468",
@@ -3990,10 +4352,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 828,
+      "cena": 0,
       "sw_kod": "sw1468",
       "set": "součást setu 75419",
-      "_id": 360
+      "_id": 362,
+      "hodnota_figurky": 828
     },
     {
       "kod": "sw1469",
@@ -4004,7 +4367,8 @@
       "cena": 870,
       "sw_kod": "sw1469",
       "set": "-",
-      "_id": 361
+      "_id": 363,
+      "hodnota_figurky": 0
     },
     {
       "kod": "sw1469",
@@ -4012,10 +4376,11 @@
       "datum": "2026-03-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 836,
+      "cena": 0,
       "sw_kod": "sw1469",
       "set": "součást setu 75419",
-      "_id": 362
+      "_id": 364,
+      "hodnota_figurky": 836
     },
     {
       "kod": "sw1470",
@@ -4023,10 +4388,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 838,
+      "cena": 0,
       "sw_kod": "sw1470",
       "set": "součást setu 75419",
-      "_id": 363
+      "_id": 365,
+      "hodnota_figurky": 838
     },
     {
       "kod": "sw1471",
@@ -4034,10 +4400,11 @@
       "datum": "2026-03-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 850,
+      "cena": 0,
       "sw_kod": "sw1471",
       "set": "součást setu 75419",
-      "_id": 364
+      "_id": 366,
+      "hodnota_figurky": 850
     },
     {
       "kod": "sw1473",
@@ -4045,10 +4412,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 743,
+      "cena": 0,
       "sw_kod": "sw1473",
       "set": "součást setu 75419",
-      "_id": 365
+      "_id": 367,
+      "hodnota_figurky": 743
     },
     {
       "kod": "sw1474",
@@ -4056,10 +4424,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 157,
+      "cena": 0,
       "sw_kod": "sw1474",
       "set": "součást setu 75419",
-      "_id": 366
+      "_id": 368,
+      "hodnota_figurky": 157
     },
     {
       "kod": "sw1475",
@@ -4067,10 +4436,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 173,
+      "cena": 0,
       "sw_kod": "sw1475",
       "set": "součást setu 75419",
-      "_id": 367
+      "_id": 369,
+      "hodnota_figurky": 173
     },
     {
       "kod": "sw1476",
@@ -4078,10 +4448,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 206,
+      "cena": 0,
       "sw_kod": "sw1476",
       "set": "součást setu 75419",
-      "_id": 368
+      "_id": 370,
+      "hodnota_figurky": 206
     },
     {
       "kod": "sw1477",
@@ -4089,10 +4460,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 1323,
+      "cena": 0,
       "sw_kod": "sw1477",
       "set": "součást setu 75419",
-      "_id": 369
+      "_id": 371,
+      "hodnota_figurky": 1323
     },
     {
       "kod": "sw1478",
@@ -4100,10 +4472,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 163,
+      "cena": 0,
       "sw_kod": "sw1478",
       "set": "součást setu 75419",
-      "_id": 370
+      "_id": 372,
+      "hodnota_figurky": 163
     },
     {
       "kod": "sw1479",
@@ -4111,10 +4484,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 1989,
+      "cena": 0,
       "sw_kod": "sw1479",
       "set": "součást setu 75419",
-      "_id": 371
+      "_id": 373,
+      "hodnota_figurky": 1989
     },
     {
       "kod": "sw1480",
@@ -4122,10 +4496,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 303,
+      "cena": 0,
       "sw_kod": "sw1480",
       "set": "součást setu 75419",
-      "_id": 372
+      "_id": 374,
+      "hodnota_figurky": 303
     },
     {
       "kod": "sw1481",
@@ -4133,10 +4508,11 @@
       "datum": "2026-03-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 1732,
+      "cena": 0,
       "sw_kod": "sw1481",
       "set": "součást setu 75419",
-      "_id": 373
+      "_id": 375,
+      "hodnota_figurky": 1732
     },
     {
       "kod": "sw1482",
@@ -4144,10 +4520,11 @@
       "datum": "2026-04-11",
       "od": "KITStore (Arkády Pankrác), součást setu 75419 (19699,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 984,
+      "cena": 0,
       "sw_kod": "sw1482",
       "set": "součást setu 75419",
-      "_id": 374
+      "_id": 376,
+      "hodnota_figurky": 984
     },
     {
       "kod": "sw1483",
@@ -4155,10 +4532,11 @@
       "datum": "2026-02-05",
       "od": "lego.com - součást nového setu LEGO 40806 (1479,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 1090,
+      "cena": 0,
       "sw_kod": "sw1483",
       "set": "součást setu 40806",
-      "_id": 375
+      "_id": 377,
+      "hodnota_figurky": 1090
     },
     {
       "kod": "sw1486",
@@ -4166,10 +4544,11 @@
       "datum": "2026-03-30",
       "od": "alza - součást nového setu LEGO 75449 (379,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 82,
+      "cena": 0,
       "sw_kod": "sw1486",
       "set": "součást setu 75449",
-      "_id": 376
+      "_id": 378,
+      "hodnota_figurky": 82
     },
     {
       "kod": "sw1487",
@@ -4177,10 +4556,11 @@
       "datum": "2026-03-30",
       "od": "alza - součást nového setu LEGO 75449 (379,-) - cena figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 95,
+      "cena": 0,
       "sw_kod": "sw1487",
       "set": "součást setu 75449",
-      "_id": 377
+      "_id": 379,
+      "hodnota_figurky": 95
     },
     {
       "kod": "sw1488",
@@ -4188,10 +4568,11 @@
       "datum": "2026-05-21",
       "od": "Alza, součást setu 75436 (178,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 127,
+      "cena": 0,
       "sw_kod": "sw1488",
       "set": "součást setu 75436",
-      "_id": 378
+      "_id": 380,
+      "hodnota_figurky": 127
     },
     {
       "kod": "sw1522",
@@ -4199,10 +4580,11 @@
       "datum": "2026-05-03",
       "od": "LEGO Chodov, součást setu 75446 (3179,-), hodnota figurky dle dne zakoupení",
       "stav": "nové",
-      "cena": 220,
+      "cena": 0,
       "sw_kod": "sw1522",
       "set": "součást setu 75446",
-      "_id": 379
+      "_id": 381,
+      "hodnota_figurky": 220
     }
   ],
   "sets": [
@@ -4213,7 +4595,7 @@
       "od": "LEGO Chodov",
       "cena": 0,
       "poznamka": "dárek při nákupu nad 3900,- kč. Normální cena 729,- (neprodejné)",
-      "_id": 1780073486908
+      "_id": 0
     },
     {
       "cislo": "40856",
@@ -4222,7 +4604,7 @@
       "od": "LEGO Chodov",
       "cena": 959,
       "poznamka": "",
-      "_id": 1780073338080
+      "_id": 1
     },
     {
       "cislo": "75371",
@@ -4231,7 +4613,7 @@
       "od": "dárek",
       "cena": 0,
       "poznamka": "",
-      "_id": 1780002926092
+      "_id": 2
     },
     {
       "cislo": "75407",
@@ -4240,10 +4622,10 @@
       "od": "morekostek.cz (Plzeň)",
       "cena": 1229,
       "poznamka": "",
-      "_id": 1780001340431
+      "_id": 3
     },
     {
-      "_id": 0,
+      "_id": 4,
       "cislo": "9499",
       "nazev": "Gungan Sub",
       "datum": "2026-02-15",
@@ -4252,7 +4634,7 @@
       "poznamka": "vydraženo v aukci"
     },
     {
-      "_id": 1,
+      "_id": 5,
       "cislo": "40806",
       "nazev": "Gingerbread AT-AT",
       "datum": "2026-02-05",
@@ -4261,7 +4643,7 @@
       "poznamka": ""
     },
     {
-      "_id": 2,
+      "_id": 6,
       "cislo": "75192",
       "nazev": "Millennium Falcon - UCS {2nd edition}",
       "datum": "2026-01-25",
@@ -4270,7 +4652,7 @@
       "poznamka": ""
     },
     {
-      "_id": 3,
+      "_id": 7,
       "cislo": "75290",
       "nazev": "Mos Eisley Cantina",
       "datum": "2026-04-03",
@@ -4279,7 +4661,7 @@
       "poznamka": ""
     },
     {
-      "_id": 4,
+      "_id": 8,
       "cislo": "75292",
       "nazev": "The Razor Crest (The Mandalorian Bounty Hunter Transport)",
       "datum": "2026-03-16",
@@ -4288,7 +4670,7 @@
       "poznamka": ""
     },
     {
-      "_id": 5,
+      "_id": 9,
       "cislo": "75308",
       "nazev": "R2-D2",
       "datum": "2024-01-23",
@@ -4297,7 +4679,7 @@
       "poznamka": ""
     },
     {
-      "_id": 6,
+      "_id": 10,
       "cislo": "75313",
       "nazev": "AT-AT - UCS",
       "datum": "2026-03-08",
@@ -4306,7 +4688,7 @@
       "poznamka": "koupeno aukro.cz (kup teď)"
     },
     {
-      "_id": 7,
+      "_id": 11,
       "cislo": "75331",
       "nazev": "The Razor Crest - UCS",
       "datum": "2026-03-22",
@@ -4315,7 +4697,7 @@
       "poznamka": ""
     },
     {
-      "_id": 8,
+      "_id": 12,
       "cislo": "75333",
       "nazev": "Obi-Wan Kenobi's Jedi Starfighter",
       "datum": "2026-04-10",
@@ -4324,7 +4706,7 @@
       "poznamka": ""
     },
     {
-      "_id": 9,
+      "_id": 13,
       "cislo": "75335",
       "nazev": "BD-1",
       "datum": "2026-04-24",
@@ -4333,7 +4715,7 @@
       "poznamka": ""
     },
     {
-      "_id": 10,
+      "_id": 14,
       "cislo": "75374",
       "nazev": "The Onyx Cinder",
       "datum": "2026-04-21",
@@ -4342,7 +4724,7 @@
       "poznamka": ""
     },
     {
-      "_id": 11,
+      "_id": 15,
       "cislo": "75379",
       "nazev": "R2-D2",
       "datum": "2026-02-03",
@@ -4351,7 +4733,7 @@
       "poznamka": ""
     },
     {
-      "_id": 12,
+      "_id": 16,
       "cislo": "75389",
       "nazev": "The Dark Falcon",
       "datum": "2026-04-09",
@@ -4360,7 +4742,7 @@
       "poznamka": ""
     },
     {
-      "_id": 13,
+      "_id": 17,
       "cislo": "75391",
       "nazev": "Captain Rex Y-Wing Microfighter",
       "datum": "2026-02-03",
@@ -4369,7 +4751,7 @@
       "poznamka": ""
     },
     {
-      "_id": 14,
+      "_id": 18,
       "cislo": "75398",
       "nazev": "C-3PO",
       "datum": "2024-12-24",
@@ -4378,7 +4760,7 @@
       "poznamka": ""
     },
     {
-      "_id": 15,
+      "_id": 19,
       "cislo": "75412",
       "nazev": "Death Trooper & Night Trooper Battle Pack",
       "datum": "2026-02-02",
@@ -4387,7 +4769,7 @@
       "poznamka": ""
     },
     {
-      "_id": 16,
+      "_id": 20,
       "cislo": "75413",
       "nazev": "Republic Juggernaut",
       "datum": "2026-04-21",
@@ -4396,7 +4778,7 @@
       "poznamka": ""
     },
     {
-      "_id": 17,
+      "_id": 21,
       "cislo": "75419",
       "nazev": "Death Star - UCS",
       "datum": "2026-04-11",
@@ -4405,7 +4787,7 @@
       "poznamka": ""
     },
     {
-      "_id": 18,
+      "_id": 22,
       "cislo": "75431",
       "nazev": "327th Star Corps Clone Troopers Battle Pack",
       "datum": "2026-03-06",
@@ -4414,7 +4796,7 @@
       "poznamka": ""
     },
     {
-      "_id": 19,
+      "_id": 23,
       "cislo": "75433",
       "nazev": "Jango Fett's Starship",
       "datum": "2026-04-19",
@@ -4423,7 +4805,7 @@
       "poznamka": ""
     },
     {
-      "_id": 20,
+      "_id": 24,
       "cislo": "75436",
       "nazev": "The Mandalorian & Grogu's Speeder Bike",
       "datum": "2026-05-21",
@@ -4432,7 +4814,7 @@
       "poznamka": ""
     },
     {
-      "_id": 21,
+      "_id": 25,
       "cislo": "75446",
       "nazev": "Grogu (Mandalorian Apprentice)",
       "datum": "2026-05-03",
@@ -4441,7 +4823,7 @@
       "poznamka": ""
     },
     {
-      "_id": 22,
+      "_id": 26,
       "cislo": "75449",
       "nazev": "Siege of Mandalore Battle Pack",
       "datum": "2026-03-30",
