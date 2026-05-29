@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported": "2026-05-28T21:33:18.019Z",
+  "exported": "2026-05-29T16:57:37.364Z",
   "figs": [
     {
       "kod": "sw0532",
@@ -4207,6 +4207,24 @@
   ],
   "sets": [
     {
+      "cislo": "40917",
+      "nazev": "The Darksaber",
+      "datum": "2026-05-03",
+      "od": "LEGO Chodov",
+      "cena": 0,
+      "poznamka": "dárek při nákupu nad 3900,- kč. Normální cena 729,- (neprodejné)",
+      "_id": 1780073486908
+    },
+    {
+      "cislo": "40856",
+      "nazev": "The Mandalorian and Grogu: Allies & Villains",
+      "datum": "2026-05-03",
+      "od": "LEGO Chodov",
+      "cena": 959,
+      "poznamka": "",
+      "_id": 1780073338080
+    },
+    {
       "cislo": "75371",
       "nazev": "Chewbacca",
       "datum": "2026-12-24",
@@ -4389,46 +4407,46 @@
     {
       "_id": 18,
       "cislo": "75431",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "327th Star Corps Clone Troopers Battle Pack",
+      "datum": "2026-03-06",
+      "od": "smarty.cz",
+      "cena": 599,
       "poznamka": ""
     },
     {
       "_id": 19,
       "cislo": "75433",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Jango Fett's Starship",
+      "datum": "2026-04-19",
+      "od": "alza.cz",
+      "cena": 1164,
       "poznamka": ""
     },
     {
       "_id": 20,
       "cislo": "75436",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "The Mandalorian & Grogu's Speeder Bike",
+      "datum": "2026-05-21",
+      "od": "alza.cz",
+      "cena": 178,
       "poznamka": ""
     },
     {
       "_id": 21,
       "cislo": "75446",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Grogu (Mandalorian Apprentice)",
+      "datum": "2026-05-03",
+      "od": "LEGO Chodov",
+      "cena": 3179,
       "poznamka": ""
     },
     {
       "_id": 22,
       "cislo": "75449",
-      "nazev": "",
-      "datum": "",
-      "od": "",
-      "cena": 0,
+      "nazev": "Siege of Mandalore Battle Pack",
+      "datum": "2026-03-30",
+      "od": "alza.cz",
+      "cena": 379,
       "poznamka": ""
     }
   ]
