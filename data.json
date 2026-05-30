@@ -1,7 +1,43 @@
 {
   "version": 2,
-  "exported": "2026-05-29T18:12:08.047Z",
+  "exported": "2026-05-30T18:15:16.843Z",
   "figs": [
+    {
+      "kod": "sw1397",
+      "nazev": "Astromech Droid, R7-A7 - Dark Bluish Gray Rectangles",
+      "datum": "2026-05-30",
+      "od": "alza.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 84,
+      "sw_kod": "sw1397",
+      "set": "součást setu 75401",
+      "_id": 1780164794674
+    },
+    {
+      "kod": "sw1398",
+      "nazev": "Anakin Skywalker - Dark Brown and Black Robe, Black Hands",
+      "datum": "2026-05-30",
+      "od": "alza.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 140,
+      "sw_kod": "sw1398",
+      "set": "součást setu 75401",
+      "_id": 1780164698413
+    },
+    {
+      "kod": "sw1396",
+      "nazev": "Ahsoka Tano (Padawan) - Dark Red Backless Vest with Necklace and Belt, Medium Legs",
+      "datum": "2026-05-30",
+      "od": "alza.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 160,
+      "sw_kod": "sw1396",
+      "set": "součást setu 75401",
+      "_id": 1780164611058
+    },
     {
       "kod": "sw0532",
       "nazev": "Chewbacca - Dark Brown, Medium Nougat Fur",
@@ -4588,6 +4624,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75401",
+      "nazev": "Ahsoka's Jedi Interceptor",
+      "datum": "2026-05-30",
+      "od": "alza.cz",
+      "cena": 705,
+      "poznamka": "",
+      "_id": 1780164866227
+    },
     {
       "cislo": "40917",
       "nazev": "The Darksaber",
