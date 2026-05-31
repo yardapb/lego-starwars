@@ -1,7 +1,43 @@
 {
   "version": 2,
-  "exported": "2026-05-30T18:15:16.843Z",
+  "exported": "2026-05-31T17:26:56.059Z",
   "figs": [
+    {
+      "kod": "sw1441",
+      "nazev": "Pit Droid - Reddish Brown Skeleton Arms",
+      "datum": "2025-11-04",
+      "od": "mironet.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 35,
+      "sw_kod": "sw1441",
+      "set": "součást setu 75418",
+      "_id": 1780248350760
+    },
+    {
+      "kod": "sw1440",
+      "nazev": "C-3PO - Printed Legs, Toes and Arms, Red Eyes",
+      "datum": "2025-11-04",
+      "od": "mironet.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 93,
+      "sw_kod": "sw1440",
+      "set": "součást setu 75418",
+      "_id": 1780248261605
+    },
+    {
+      "kod": "sw1439",
+      "nazev": "Babu Frik (6538158)",
+      "datum": "2025-11-04",
+      "od": "mironet.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 163,
+      "sw_kod": "sw1439",
+      "set": "součást setu 75418",
+      "_id": 1780248073533
+    },
     {
       "kod": "sw1397",
       "nazev": "Astromech Droid, R7-A7 - Dark Bluish Gray Rectangles",
@@ -4624,6 +4660,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75418",
+      "nazev": "Advent Calendar 2025, Star Wars",
+      "datum": "2025-11-04",
+      "od": "mironet.cz",
+      "cena": 649,
+      "poznamka": "",
+      "_id": 1780246780983
+    },
     {
       "cislo": "75401",
       "nazev": "Ahsoka's Jedi Interceptor",
