@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-05-31T17:52:18.053Z",
+  "exported": "2026-06-01T15:22:38.507Z",
   "figs": [
     {
       "kod": "sw1451",
@@ -4816,6 +4816,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75461",
+      "nazev": "Up-Scaled Darth Vader Minifigure",
+      "datum": "2026-05-31",
+      "od": "alza.cz",
+      "cena": 2036,
+      "poznamka": "",
+      "_id": 1780327320773
+    },
     {
       "cislo": "75418",
       "nazev": "Advent Calendar 2025, Star Wars",
