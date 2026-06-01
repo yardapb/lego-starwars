@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-06-01T15:56:03.966Z",
+  "exported": "2026-06-01T15:57:56.557Z",
   "figs": [
     {
       "kod": "sw1451",
@@ -4864,7 +4864,7 @@
     {
       "cislo": "75371",
       "nazev": "Chewbacca",
-      "datum": "2025-12-24",
+      "datum": "2026-12-24",
       "od": "dárek",
       "cena": 0,
       "poznamka": "",
