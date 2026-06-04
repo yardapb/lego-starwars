@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "exported": "2026-06-02T12:22:27.085Z",
+  "exported": "2026-06-04T10:22:48.018Z",
   "figs": [
+    {
+      "kod": "sw0707",
+      "nazev": "Yoda - Olive Green, Open Robe with Large Creases",
+      "datum": "2026-03-22",
+      "od": "aukro.cz (mlynec), součást setu 75255",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 209,
+      "sw_kod": "sw0707",
+      "set": "součást setu 75255",
+      "_id": 1780568401700
+    },
     {
       "kod": "sw1451",
       "nazev": "Snowman BB-8",
@@ -4816,6 +4828,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75255",
+      "nazev": "Yoda",
+      "datum": "32026-01-22",
+      "od": "aukro.cz (mlynec)",
+      "cena": 2499,
+      "poznamka": "",
+      "_id": 1780568532580
+    },
     {
       "cislo": "75461",
       "nazev": "Up-Scaled Darth Vader Minifigure",
