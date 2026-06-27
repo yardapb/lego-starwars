@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-06-27T22:23:30.857Z",
+  "exported": "2026-06-27T22:28:34.725Z",
   "figs": [
     {
       "kod": "sw1312",
@@ -3624,7 +3624,7 @@
       "sw_kod": "sw1265",
       "set": "-",
       "_id": 293,
-      "hodnota_figurky": 0
+      "hodnota_figurky": 137
     },
     {
       "kod": "sw1274",
@@ -3804,7 +3804,7 @@
       "sw_kod": "sw1330",
       "set": "-",
       "_id": 308,
-      "hodnota_figurky": 0
+      "hodnota_figurky": 407
     },
     {
       "kod": "sw1332",
@@ -4272,7 +4272,7 @@
       "sw_kod": "sw1405",
       "set": "-",
       "_id": 347,
-      "hodnota_figurky": 0
+      "hodnota_figurky": 503
     },
     {
       "kod": "sw1407",
