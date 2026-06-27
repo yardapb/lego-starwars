@@ -1,7 +1,67 @@
 {
   "version": 2,
-  "exported": "2026-06-21T05:39:08.850Z",
+  "exported": "2026-06-27T22:23:30.857Z",
   "figs": [
+    {
+      "kod": "sw1312",
+      "nazev": "Luke Skywalker - Dark Tan Endor Outfit, Hair",
+      "datum": "2026-06-27",
+      "od": "megaknihy.cz - Lego Star Wars. Największy Mistrz Jedi! - (polsky) (75,- kč)",
+      "stav": "nové",
+      "cena": 75,
+      "hodnota_figurky": 140,
+      "sw_kod": "sw1312",
+      "set": "-",
+      "_id": 1782598993109
+    },
+    {
+      "kod": "sw1021",
+      "nazev": "Han Solo, Dark Brown Legs with Holster Pattern, Dark Blue Jacket, Wavy Hair, Smile / Frown",
+      "datum": "2026-06-27",
+      "od": "megaknihy.cz - Lego Star Wars Przemytnik Rebeliant bohater! LNC-6309P1 - (polsky) (131,,- kč)",
+      "stav": "nové",
+      "cena": 131,
+      "hodnota_figurky": 171,
+      "sw_kod": "sw1021",
+      "set": "-",
+      "_id": 1782598806606
+    },
+    {
+      "kod": "sw1313",
+      "nazev": "Hoth Rebel Trooper Dark Tan Uniform and Helmet, White Legs, Female (Kori Zaran)",
+      "datum": "2026-06-27",
+      "od": "megaknihy.cz - LEGO Star Wars Galaxy Mission - (anglicky) (332 kč,-)",
+      "stav": "nové",
+      "cena": 332,
+      "hodnota_figurky": 356,
+      "sw_kod": "sw1313",
+      "set": "-",
+      "_id": 1782598607909
+    },
+    {
+      "kod": "sw1147",
+      "nazev": "Yoda - Olive Green, Backpack",
+      "datum": "2026-06-27",
+      "od": "megaknihy.cz - LEGO Star Wars Yoda's Galaxy Atlas - (anglicky) (293,- kč)",
+      "stav": "nové",
+      "cena": 293,
+      "hodnota_figurky": 310,
+      "sw_kod": "sw1147",
+      "set": "-",
+      "_id": 1782598443857
+    },
+    {
+      "kod": "sw1288",
+      "nazev": "Yoda - Olive Green, Open Robe with Small Creases",
+      "datum": "2026-06-27",
+      "od": "megaknihy.cz - Lego Star Wars. Mistrz Yoda - (polsky) (75,- kč)",
+      "stav": "nové",
+      "cena": 75,
+      "hodnota_figurky": 156,
+      "sw_kod": "sw1288",
+      "set": "-",
+      "_id": 1782598218749
+    },
     {
       "kod": "L0002245-2",
       "nazev": "Jango Fett metal box {Helmet Shaped Box Version}",
