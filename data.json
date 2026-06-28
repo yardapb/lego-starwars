@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-06-28T20:00:00.000Z",
+  "exported": "2026-06-28T20:47:26.826Z",
   "figs": [
     {
       "_id": "new_sw0005",
@@ -300,18 +300,6 @@
       "cena": 120,
       "hodnota_figurky": 0,
       "sw_kod": "sw0446",
-      "set": "-"
-    },
-    {
-      "_id": "new_sw0446a",
-      "kod": "sw0446a",
-      "nazev": "Yoda - Clone Wars, Light Bluish Gray Hair, Torso with Back Print",
-      "datum": "2026-06-27",
-      "od": "BRICKKINGS (brickkings3@gmail.com)(www.bricklink.com)",
-      "stav": "použité",
-      "cena": 136,
-      "hodnota_figurky": 0,
-      "sw_kod": "sw0446a",
       "set": "-"
     },
     {
