@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "exported": "2026-06-27T22:28:34.725Z",
+  "exported": "2026-06-28T17:52:28.054Z",
   "figs": [
+    {
+      "kod": "912291-1",
+      "nazev": "Luke Skywalker (Hoth, Balaclava Head)",
+      "datum": "2026-06-28",
+      "od": "časopis Lego Star-wars 1/2023 - Luke Skywalker paper bag #1 (90kč) (sw1143)",
+      "stav": "nové",
+      "cena": 90,
+      "hodnota_figurky": 88,
+      "sw_kod": "sw1143",
+      "set": "-",
+      "_id": 1782668846367
+    },
     {
       "kod": "sw1312",
       "nazev": "Luke Skywalker - Dark Tan Endor Outfit, Hair",
