@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-06-28T20:47:26.826Z",
+  "exported": "2026-07-04T14:30:32.781Z",
   "figs": [
     {
       "_id": "new_sw0005",
@@ -5741,9 +5741,27 @@
   ],
   "sets": [
     {
+      "cislo": "75400",
+      "nazev": "Plo Koon's Jedi Starfighter Microfighter",
+      "datum": "2026-07-04",
+      "od": "morekostek.cz (Plzeň)",
+      "cena": 245,
+      "poznamka": "",
+      "_id": 1783175347005
+    },
+    {
+      "cislo": "75437",
+      "nazev": "Cobb Vanth's Speeder",
+      "datum": "2026-07-04",
+      "od": "morekostek.cz (Plzeň)",
+      "cena": 479,
+      "poznamka": "",
+      "_id": 1783175247584
+    },
+    {
       "cislo": "75255",
       "nazev": "Yoda",
-      "datum": "32026-01-22",
+      "datum": "2026-01-22",
       "od": "aukro.cz (mlynec)",
       "cena": 2499,
       "poznamka": "",
