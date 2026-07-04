@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-07-04T14:43:03.497Z",
+  "exported": "2026-07-04T15:01:06.829Z",
   "figs": [
     {
       "kod": "sw1489",
@@ -3591,13 +3591,13 @@
       "hodnota_figurky": 0
     },
     {
-      "kod": "sw1002",
-      "nazev": "Clone Scout Trooper, 41st Elite Corps (Phase 2) - Kashyyyk Camouflage, Dark Tan Markings on Legs, Scowl nebo sw0518",
+      "kod": "sw0518",
+      "nazev": "Clone Scout Trooper, 41st Elite Corps (Phase 2) - Kashyyyk Camouflage, Scowl",
       "datum": "2026-02-12",
       "od": "Petr-Janas (aukro)",
       "stav": "použité",
       "cena": 290,
-      "sw_kod": "sw1002",
+      "sw_kod": "sw0518",
       "set": "-",
       "_id": 219,
       "hodnota_figurky": 0
