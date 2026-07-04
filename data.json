@@ -1,7 +1,43 @@
 {
   "version": 2,
-  "exported": "2026-07-04T14:30:32.781Z",
+  "exported": "2026-07-04T14:43:03.497Z",
   "figs": [
+    {
+      "kod": "sw1489",
+      "nazev": "Cobb Vanth",
+      "datum": "2026-07-04",
+      "od": "morekostek.cz (Plzeň)",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 194,
+      "sw_kod": "sw1489",
+      "set": "součást setu 75437",
+      "_id": 1783176140533
+    },
+    {
+      "kod": "sw1490",
+      "nazev": "Cad Bane - Black Head",
+      "datum": "2026-07-04",
+      "od": "morekostek.cz (Plzeň)",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 196,
+      "sw_kod": "sw1490",
+      "set": "součást setu 75437",
+      "_id": 1783175975434
+    },
+    {
+      "kod": "sw1414",
+      "nazev": "Plo Koon - Dark Brown Robe, Tan Shirt, Printed Legs",
+      "datum": "2026-07-04",
+      "od": "morekostek.cz (Plzeň)",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 180,
+      "sw_kod": "sw1414",
+      "set": "součást setu 75400",
+      "_id": 1783175538283
+    },
     {
       "_id": "new_sw0005",
       "kod": "sw0005",
