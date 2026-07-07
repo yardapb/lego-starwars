@@ -1,7 +1,67 @@
 {
   "version": 2,
-  "exported": "2026-07-07T19:00:09.171Z",
+  "exported": "2026-07-07T19:16:42.705Z",
   "figs": [
+    {
+      "kod": "sw1519",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads",
+      "datum": "2026-07-06",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 200,
+      "sw_kod": "sw1519",
+      "set": "součást setu 75447",
+      "_id": 1783451787869
+    },
+    {
+      "kod": "sw1525",
+      "nazev": "Imperial Stormtrooper - Dual Molded Helmet with Light Bluish Gray Panels on Back, Black Pauldron, Shoulder Belts, Medium Nougat Head",
+      "datum": "2026-07-06",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 240,
+      "sw_kod": "sw1525",
+      "set": "součást setu 75447",
+      "_id": 1783451575474
+    },
+    {
+      "kod": "sw1527",
+      "nazev": "Garazeb 'Zeb' Orrelios - Republic Flightsuit",
+      "datum": "2026-07-06",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 1000,
+      "sw_kod": "sw1527",
+      "set": "součást setu 75447",
+      "_id": 1783451306464
+    },
+    {
+      "kod": "sw1522",
+      "nazev": "Din Grogu / The Child / 'Baby Yoda' - Long Robe, Beskar Rondel with Mudhorn Signet",
+      "datum": "2026-07-06",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 160,
+      "sw_kod": "sw1522",
+      "set": "součást setu 75447",
+      "_id": 1783451119849
+    },
+    {
+      "kod": "sw1526",
+      "nazev": "Colonel Ward - Sand Green Jacket, Reddish Brown Legs",
+      "datum": "2026-07-06",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 165,
+      "sw_kod": "sw1526",
+      "set": "součást setu 75447",
+      "_id": 1783451033246
+    },
     {
       "kod": "sw1489",
       "nazev": "Cobb Vanth",
@@ -5776,6 +5836,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75447",
+      "nazev": "The Razor Crest",
+      "datum": "2026-07-06",
+      "od": "allegro.cz",
+      "cena": 2516,
+      "poznamka": "",
+      "_id": 1783450881955
+    },
     {
       "cislo": "75400",
       "nazev": "Plo Koon's Jedi Starfighter Microfighter",
