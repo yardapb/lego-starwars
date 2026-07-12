@@ -1,7 +1,55 @@
 {
   "version": 2,
-  "exported": "2026-07-07T19:16:42.705Z",
+  "exported": "2026-07-12T08:31:56.629Z",
   "figs": [
+    {
+      "kod": "sw1517",
+      "nazev": "New Republic Astromech - Dark Green",
+      "datum": "2026-07-09",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 338,
+      "sw_kod": "sw1517",
+      "set": "součást setu 75460",
+      "_id": 1783845095384
+    },
+    {
+      "kod": "sw1516",
+      "nazev": "Colonel Ward - X-Wing Flightsuit",
+      "datum": "2026-07-09",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 462,
+      "sw_kod": "sw1516",
+      "set": "součást setu 75460",
+      "_id": 1783844988203
+    },
+    {
+      "kod": "sw1518",
+      "nazev": "Carson Teva - X-Wing Flightsuit",
+      "datum": "2026-07-09",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 466,
+      "sw_kod": "sw1518",
+      "set": "součást setu 75460",
+      "_id": 1783844909810
+    },
+    {
+      "kod": "sw0501",
+      "nazev": "Jedi Consular",
+      "datum": "2026-07-08",
+      "od": "Petr-Janas (aukro)",
+      "stav": "použité",
+      "cena": 2296,
+      "hodnota_figurky": 0,
+      "sw_kod": "sw0501",
+      "set": "-",
+      "_id": 1783844577801
+    },
     {
       "kod": "sw1519",
       "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jetpack, Printed Head, Reddish Brown and Dark Silver Knee Pads",
@@ -5836,6 +5884,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75460",
+      "nazev": "New Republic X-Wing Starfighter",
+      "datum": "2026-07-09",
+      "od": "allegro.cz",
+      "cena": 1245,
+      "poznamka": "",
+      "_id": 1783844768080
+    },
     {
       "cislo": "75447",
       "nazev": "The Razor Crest",
