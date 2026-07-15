@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "exported": "2026-07-12T08:31:56.629Z",
+  "exported": "2026-07-15T17:47:20.053Z",
   "figs": [
+    {
+      "kod": "sw1202",
+      "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots, Large Receptor, Back Printing",
+      "datum": "2026-02-03",
+      "od": "pompo.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 109,
+      "sw_kod": "sw1202",
+      "set": "součást setu 75379",
+      "_id": 1784137615143
+    },
     {
       "kod": "sw1517",
       "nazev": "New Republic Astromech - Dark Green",
