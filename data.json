@@ -1,7 +1,19 @@
 {
   "version": 2,
-  "exported": "2026-07-15T17:47:20.053Z",
+  "exported": "2026-07-17T13:26:55.776Z",
   "figs": [
+    {
+      "kod": "L0002237-1",
+      "nazev": "Galactic Marine paper bag",
+      "datum": "2026-07-17",
+      "od": "LEGO časopis č. 6/2026",
+      "stav": "nové",
+      "cena": 140,
+      "hodnota_figurky": 445,
+      "sw_kod": "sw1430",
+      "set": "-",
+      "_id": 1784294629016
+    },
     {
       "kod": "sw1202",
       "nazev": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots, Large Receptor, Back Printing",
@@ -1050,7 +1062,7 @@
       "kod": "L0002245-2",
       "nazev": "Jango Fett metal box {Helmet Shaped Box Version}",
       "datum": "2026-06-19",
-      "od": "časopis LEGO č. 5/2026",
+      "od": "LEGO časopis č. 5/2026",
       "stav": "nové",
       "cena": 180,
       "hodnota_figurky": 0,
@@ -1062,7 +1074,7 @@
       "kod": "L0002245-1",
       "nazev": "Jango Fett metal box {Rectangular Box Version} (sw1433)",
       "datum": "2026-06-10",
-      "od": "časopis LEGO č. 5/2026",
+      "od": "LEGO časopis č. 5/2026",
       "stav": "nové",
       "cena": 180,
       "hodnota_figurky": 0,
