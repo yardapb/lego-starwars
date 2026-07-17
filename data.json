@@ -1,7 +1,67 @@
 {
   "version": 2,
-  "exported": "2026-07-17T13:26:55.776Z",
+  "exported": "2026-07-17T16:16:13.470Z",
   "figs": [
+    {
+      "kod": "sw1456",
+      "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head",
+      "datum": "2026-07-17",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 189,
+      "sw_kod": "sw1456",
+      "set": "součást setu 75459",
+      "_id": 1784304948706
+    },
+    {
+      "kod": "sw1531",
+      "nazev": "Moff Gideon - Cape, Medium Brown Head",
+      "datum": "2026-07-17",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 925,
+      "sw_kod": "sw1531",
+      "set": "součást setu 75459",
+      "_id": 1784304321308
+    },
+    {
+      "kod": "sw1530",
+      "nazev": "Dr. Penn Pershing",
+      "datum": "2026-07-17",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 1000,
+      "sw_kod": "sw1530",
+      "set": "součást setu 75459",
+      "_id": 1784304244682
+    },
+    {
+      "kod": "sw1529",
+      "nazev": "Imperial Shuttle Pilot - Light Nougat Head, Black Aviator Cap",
+      "datum": "2026-07-17",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 489,
+      "sw_kod": "sw1529",
+      "set": "součást setu 75459",
+      "_id": 1784304151624
+    },
+    {
+      "kod": "sw1528",
+      "nazev": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape, Printed Head, Reddish Brown and Dark Silver Knee Pads",
+      "datum": "2026-07-17",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 919,
+      "sw_kod": "sw1528",
+      "set": "součást setu 75459",
+      "_id": 1784304006645
+    },
     {
       "kod": "L0002237-1",
       "nazev": "Galactic Marine paper bag",
@@ -5908,6 +5968,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75459",
+      "nazev": "Imperial Lambda-Class Shuttle",
+      "datum": "2026-07-17",
+      "od": "allegro.cz",
+      "cena": 2649,
+      "poznamka": "",
+      "_id": 1784302472190
+    },
     {
       "cislo": "75460",
       "nazev": "New Republic X-Wing Starfighter",
