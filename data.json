@@ -1,7 +1,55 @@
 {
   "version": 2,
-  "exported": "2026-07-17T16:16:13.470Z",
+  "exported": "2026-07-18T13:17:07.233Z",
   "figs": [
+    {
+      "kod": "sw1227",
+      "nazev": "Obi-Wan Kenobi - Dark Brown Robe, Dark Orange Mid-Length Hair with Ruffled Back",
+      "datum": "2026-07-18",
+      "od": "bazos.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 121,
+      "sw_kod": "sw1227",
+      "set": "součást setu 75334",
+      "_id": 1784380588451
+    },
+    {
+      "kod": "sw1226",
+      "nazev": "NED-B Loader Droid",
+      "datum": "2026-07-18",
+      "od": "bazos.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 247,
+      "sw_kod": "sw1226",
+      "set": "součást setu 75334",
+      "_id": 1784380465435
+    },
+    {
+      "kod": "sw1228",
+      "nazev": "Darth Vader - Light Nougat Head, Printed Arms",
+      "datum": "2026-07-18",
+      "od": "bazos.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 222,
+      "sw_kod": "sw1228",
+      "set": "součást setu 75334",
+      "_id": 1784380368319
+    },
+    {
+      "kod": "sw1225",
+      "nazev": "Captain Tala Durith",
+      "datum": "2026-07-18",
+      "od": "bazos.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 135,
+      "sw_kod": "sw1225",
+      "set": "součást setu 75334",
+      "_id": 1784380299039
+    },
     {
       "kod": "sw1456",
       "nazev": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head",
@@ -5968,6 +6016,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75334",
+      "nazev": "Obi-Wan Kenobi vs. Darth Vader",
+      "datum": "2026-07-18",
+      "od": "bazos.cz",
+      "cena": 900,
+      "poznamka": "Prodejce Oto Drobík tel. 774 325 420 Okružní 373 Vestec",
+      "_id": 1784380160549
+    },
     {
       "cislo": "75459",
       "nazev": "Imperial Lambda-Class Shuttle",
