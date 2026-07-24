@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "exported": "2026-07-24T23:05:13.919Z",
+  "exported": "2026-07-24T23:08:27.599Z",
   "figs": [
     {
-      "kod": "sw1429",
-      "nazev": "Clone Trooper Commander Bly",
+      "kod": "sw1427",
+      "nazev": "Commando Droid - Pearl Dark Gray",
       "datum": "2026-07-24",
       "od": "allegro.cz",
       "stav": "nové",
       "cena": 0,
-      "hodnota_figurky": 1158,
+      "hodnota_figurky": 110,
       "pocet": 1,
-      "sw_kod": "sw1429",
+      "sw_kod": "sw1427",
       "set": "součást setu 75435",
-      "_id": 1784934307589
+      "_id": 1784934503558
     },
     {
       "kod": "sw1429",
