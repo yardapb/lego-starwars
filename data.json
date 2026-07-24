@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-07-24T23:26:30.216Z",
+  "exported": "2026-07-24T23:28:00.322Z",
   "figs": [
     {
       "kod": "sw1427",
@@ -1781,7 +1781,7 @@
       "set": "součást setu 75413",
       "_id": 131,
       "hodnota_figurky": 37,
-      "pocet": 1
+      "pocet": 3
     },
     {
       "kod": "sw0002b",
@@ -6071,7 +6071,7 @@
       "set": "součást setu 75413",
       "_id": 461,
       "hodnota_figurky": 447,
-      "pocet": 1
+      "pocet": 3
     },
     {
       "kod": "sw1431",
