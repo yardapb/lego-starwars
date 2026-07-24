@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-07-24T23:17:42.012Z",
+  "exported": "2026-07-24T23:18:26.811Z",
   "figs": [
     {
       "kod": "sw1427",
@@ -10,7 +10,7 @@
       "stav": "nové",
       "cena": 0,
       "hodnota_figurky": 110,
-      "pocet": 1,
+      "pocet": 3,
       "sw_kod": "sw1427",
       "set": "součást setu 75435",
       "_id": 1784934503558
