@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-07-24T23:22:20.407Z",
+  "exported": "2026-07-24T23:23:55.101Z",
   "figs": [
     {
       "kod": "sw1427",
@@ -5213,7 +5213,7 @@
       "set": "součást setu 75449",
       "_id": 395,
       "hodnota_figurky": 60,
-      "pocet": 1
+      "pocet": 2
     },
     {
       "kod": "sw1296",
