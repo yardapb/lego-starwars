@@ -242,7 +242,7 @@ tbody tr:hover .set-img-thumb{transform:scale(1.1);}
     <select id="f-setNumFilter" onchange="filterFigs()"><option value="">Vše (set č.)</option></select>
     <select id="f-uniqFilter" onchange="filterFigs()">
       <option value="">Vše (jedinečnost)</option>
-      <option value="unique">🔹 Jedinečné</option>
+      <option value="unique">🔹 Jedinečné sw kódy</option>
       <option value="duplicate">🔸 Duplicitní</option>
     </select>
     <div class="view-toggle">
@@ -675,9 +675,19 @@ function filterFigs() {
     const mf=!setF||(setF==='set'&&sf)||(setF==='standalone'&&!sf);
     const mn=!setNum||(r.set||'').includes(setNum);
     const isDup=(swCounts[r.sw_kod]||0)>1;
-    const mu=!uniq||(uniq==='unique'&&!isDup)||(uniq==='duplicate'&&isDup);
+    const mu=!uniq||(uniq==='duplicate'&&isDup)||(uniq==='unique');
     return mq&&ms&&mf&&mn&&mu;
   });
+  // Pro filtr jedinečných sw kódů — ponech jen první výskyt každého sw_kodu
+  if(uniq==='unique'){
+    const seen=new Set();
+    filteredFigs=filteredFigs.filter(r=>{
+      const key=r.sw_kod||r.kod||'';
+      if(seen.has(key))return false;
+      seen.add(key);
+      return true;
+    });
+  }
   sortFigsArr(); renderFigs(); updateFigStats();
 }
 function sortFigs(col) {
