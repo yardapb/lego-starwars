@@ -220,7 +220,8 @@ tbody tr:hover .set-img-thumb{transform:scale(1.1);}
 <!-- FIGURKY -->
 <div id="sectionFigurky">
   <div class="stats-bar">
-    <div class="stat-item"><div class="stat-value" id="f-stat-total">0</div><div class="stat-label">Celkem</div></div>
+    <div class="stat-item"><div class="stat-value" id="f-stat-total">0</div><div class="stat-label">Celkem vše</div></div>
+    <div class="stat-item"><div class="stat-value" id="f-stat-unique">0</div><div class="stat-label">Unikátní sw kód</div></div>
     <div class="stat-item"><div class="stat-value" id="f-stat-nove">0</div><div class="stat-label">Nové</div></div>
     <div class="stat-item"><div class="stat-value" id="f-stat-pouzite">0</div><div class="stat-label">Použité</div></div>
     <div class="stat-item"><div class="stat-value" id="f-stat-set">0</div><div class="stat-label">Ze setu</div></div>
@@ -640,6 +641,8 @@ function getStandaloneValue() { return figs.filter(r => !isSetFig(r)).reduce((s,
 
 function updateFigStats() {
   document.getElementById('f-stat-total').textContent = figs.length;
+  const uniqueSw = new Set(figs.map(f=>f.sw_kod).filter(Boolean)).size;
+  document.getElementById('f-stat-unique').textContent = uniqueSw;
   document.getElementById('f-stat-nove').textContent = figs.filter(r => r.stav==='nové').length;
   document.getElementById('f-stat-pouzite').textContent = figs.filter(r => r.stav==='použité').length;
   document.getElementById('f-stat-set').textContent = figs.filter(r => isSetFig(r)).length;
@@ -1177,6 +1180,33 @@ async function loadFromGithub(){
   }catch(e){}
 }
 
+
+// PWA Install prompt
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault();
+  deferredPrompt = e;
+  if(!localStorage.getItem('installDismissed')) {
+    const banner = document.getElementById('installBanner');
+    if(banner) banner.style.display = 'flex';
+  }
+});
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('installBtn');
+  if(btn) btn.addEventListener('click', async () => {
+    if(!deferredPrompt) return;
+    deferredPrompt.prompt();
+    const result = await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    document.getElementById('installBanner').style.display = 'none';
+  });
+});
+window.addEventListener('appinstalled', () => {
+  const banner = document.getElementById('installBanner');
+  if(banner) banner.style.display = 'none';
+  deferredPrompt = null;
+});
+
 if('serviceWorker' in navigator){
   window.addEventListener('load',()=>navigator.serviceWorker.register('/lego-starwars/sw.js').catch(e=>console.log(e)));
 }
@@ -1184,5 +1214,25 @@ if('serviceWorker' in navigator){
 init();
 loadFromGithub();
 </script>
+<!-- INSTALL BANNER -->
+<div id="installBanner" style="display:none;position:fixed;bottom:0;left:0;right:0;
+  background:linear-gradient(90deg,#0a1520,#0f1f30);border-top:2px solid #ffe81f;
+  padding:12px 20px;display:flex;align-items:center;justify-content:space-between;
+  z-index:2000;box-shadow:0 -4px 20px rgba(255,232,31,0.15);gap:12px;flex-wrap:wrap;">
+  <div style="display:flex;align-items:center;gap:12px;">
+    <img src="Grogu.png" style="width:36px;height:36px;object-fit:contain;" onerror="this.style.display='none'">
+    <div>
+      <div style="font-family:Orbitron,monospace;font-size:11px;color:#ffe81f;font-weight:700;letter-spacing:1px;">PŘIDAT NA PLOCHU</div>
+      <div style="font-size:11px;color:#5a8ab0;margin-top:2px;">Nainstalovat jako aplikaci</div>
+    </div>
+  </div>
+  <div style="display:flex;gap:8px;align-items:center;">
+    <button onclick="document.getElementById('installBanner').style.display='none';localStorage.setItem('installDismissed','1');"
+      style="background:transparent;border:1px solid #1a3a5c;color:#5a8ab0;padding:7px 14px;border-radius:4px;cursor:pointer;font-size:12px;">Později</button>
+    <button id="installBtn"
+      style="background:#ffe81f;border:none;color:#000;padding:7px 16px;border-radius:4px;cursor:pointer;font-family:Orbitron,monospace;font-size:10px;font-weight:700;letter-spacing:1px;">INSTALOVAT</button>
+  </div>
+</div>
+
 </body>
 </html>
