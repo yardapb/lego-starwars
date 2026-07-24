@@ -640,7 +640,8 @@ function getSetValue() { return sets.reduce((s,r) => s+(r.cena||0), 0); }
 function getStandaloneValue() { return figs.filter(r => !isSetFig(r)).reduce((s,r) => s+(r.cena||0), 0); }
 
 function updateFigStats() {
-  document.getElementById('f-stat-total').textContent = figs.length;
+  const totalKs = figs.reduce((s,r) => s + (r.pocet||1), 0);
+  document.getElementById('f-stat-total').textContent = totalKs;
   const uniqueSw = new Set(figs.map(f=>f.sw_kod).filter(Boolean)).size;
   document.getElementById('f-stat-unique').textContent = uniqueSw;
   document.getElementById('f-stat-nove').textContent = figs.filter(r => r.stav==='nové').length;
