@@ -1,7 +1,72 @@
 {
   "version": 2,
-  "exported": "2026-07-24T21:39:32.689Z",
+  "exported": "2026-07-24T21:53:58.973Z",
   "figs": [
+    {
+      "kod": "sw1427",
+      "nazev": "Commando Droid - Pearl Dark Gray",
+      "datum": "2026-07-24",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 110,
+      "pocet": 3,
+      "sw_kod": "sw1427",
+      "set": "součást setu 75435",
+      "_id": 1784930015338
+    },
+    {
+      "kod": "sw1429",
+      "nazev": "Clone Trooper Commander Bly",
+      "datum": "2026-07-24",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 1158,
+      "pocet": 1,
+      "sw_kod": "sw1429",
+      "set": "součást setu 75435",
+      "_id": 1784929937400
+    },
+    {
+      "kod": "sw1338",
+      "nazev": "Battle Droid Pilot - Blue Torso with Tan Insignia and Chest Badge, Angled Arm and Straight Arm",
+      "datum": "2026-07-24",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 105,
+      "pocet": 1,
+      "sw_kod": "sw1338",
+      "set": "součást setu 75435",
+      "_id": 1784929787558
+    },
+    {
+      "kod": "sw0001c",
+      "nazev": "Battle Droid - Tan, Angled Arm and Straight Arm",
+      "datum": "2026-07-24",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 40,
+      "pocet": 6,
+      "sw_kod": "sw0001c",
+      "set": "součást setu 75435",
+      "_id": 1784929671486
+    },
+    {
+      "kod": "sw1428",
+      "nazev": "Aayla Secura - Nougat Lips",
+      "datum": "2026-07-24",
+      "od": "allegro.cz",
+      "stav": "nové",
+      "cena": 0,
+      "hodnota_figurky": 514,
+      "pocet": 1,
+      "sw_kod": "sw1428",
+      "set": "součást setu 75435",
+      "_id": 1784929555848
+    },
     {
       "kod": "sw1227",
       "nazev": "Obi-Wan Kenobi - Dark Brown Robe, Dark Orange Mid-Length Hair with Ruffled Back",
@@ -6517,6 +6582,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75435",
+      "nazev": "Battle of Felucia Separatist MTT",
+      "datum": "2026-07-24",
+      "od": "allegro.cz",
+      "cena": 2419,
+      "poznamka": "",
+      "_id": 1784929372697
+    },
     {
       "cislo": "75334",
       "nazev": "Obi-Wan Kenobi vs. Darth Vader",
