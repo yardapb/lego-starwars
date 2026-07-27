@@ -1,7 +1,46 @@
 {
   "version": 2,
-  "exported": "2026-07-24T23:31:28.948Z",
+  "exported": "2026-07-27T19:46:21.679Z",
   "figs": [
+    {
+      "kod": "sw1091",
+      "nazev": "Darth Maul - Printed Mechanical Legs (Crimson Dawn Crime Lord)",
+      "datum": "2026-07-27",
+      "od": "megaknihy.cz (LEGO Star Wars Awesome Vehicles)",
+      "stav": "nové",
+      "cena": 257,
+      "hodnota_figurky": 430,
+      "pocet": 1,
+      "sw_kod": "sw1091",
+      "set": "-",
+      "_id": 1785181568948
+    },
+    {
+      "kod": "sw0737",
+      "nazev": "Poe Dameron (Medium Nougat Jacket, Hair)",
+      "datum": "2026-07-27",
+      "od": "megaknihy.cz (LEGO Star Wars Awesome Vehicles)",
+      "stav": "nové",
+      "cena": 230,
+      "hodnota_figurky": 296,
+      "pocet": 1,
+      "sw_kod": "sw0737",
+      "set": "-",
+      "_id": 1785181417337
+    },
+    {
+      "kod": "sw1347",
+      "nazev": "Mandalorian Fleet Commander - Helmet",
+      "datum": "2026-07-27",
+      "od": "megaknihy.cz (LEGO Star Wars Mandaloriańscy Wojownicy (polsky))",
+      "stav": "nové",
+      "cena": 75,
+      "hodnota_figurky": 167,
+      "pocet": 1,
+      "sw_kod": "sw1347",
+      "set": "-",
+      "_id": 1785181272280
+    },
     {
       "kod": "sw1427",
       "nazev": "Commando Droid - Pearl Dark Gray",
