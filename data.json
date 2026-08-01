@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exported": "2026-07-31T14:04:02.274Z",
+  "exported": "2026-08-01T08:48:33.970Z",
   "figs": [
     {
       "kod": "L0002237-1",
@@ -6634,6 +6634,15 @@
     }
   ],
   "sets": [
+    {
+      "cislo": "75455",
+      "nazev": "Boba Fett",
+      "datum": "2026-08-01",
+      "od": "allegro.cz",
+      "cena": 3123,
+      "poznamka": "doplnit minifigurku (1.8.2026) ještě nebyla přiřazena k tomuto setu",
+      "_id": 1785573888853
+    },
     {
       "cislo": "75435",
       "nazev": "Battle of Felucia Separatist MTT",
